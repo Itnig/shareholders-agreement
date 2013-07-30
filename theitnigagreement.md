@@ -18,9 +18,9 @@ Bernat Farrero Badal, mayor de edad, con domicilio a efectos del presente contra
 
 `NOMBRE Y APELLIDOS PARTNER 1`, en nombre y representación de la sociedad `RAZÓN SOCIAL STARTUP`, con domicilio en `DOMICILIO STARTUP`, provista de NIF `NIF STARTUP`, debidamente inscrita el día `DÍA REGISTRO MERCANTIL` en el Registro Mercantil de `PROVINCIA REGISTRO MERCANTIL` en el tomo `TOMO REGISTRO MERCANTIL`, folio `FOLIO REGISTRO MERCANTIL`, hoja `HOJA REGISTRO MERCANTIL`, Inscripción `INSCRIPCIÓN REGISTRO MERCANTIL`. Actúa en su calidad de `TIPO DE ADMINISTRADOR DE LA STARTUP`.[^b]
 
-Bernat Farrero Badal, en nombre y representación de la sociedad_itnig_SOLUTIONS, S.L., con domicilio social en Calle Álaba, 61, 5 - 2 de Barcelona, provista de NIF B-65530271, e inscrita en el Registro Mercantil de Barcelona en el tomo 42481, folio 152, hoja B409715, inscripcion 1ª.  Actúa en su calidad de Administrador Único.
+Bernat Farrero Badal, en nombre y representación de la sociedad _itnig_ SOLUTIONS, S.L., con domicilio social en Calle Álaba, 61, 5 - 2 de Barcelona, provista de NIF B-65530271, e inscrita en el Registro Mercantil de Barcelona en el tomo 42481, folio 152, hoja B409715, inscripcion 1ª.  Actúa en su calidad de Administrador Único.
 
-En adelante, para referirse a los socios `NOMBRE Y APELLIDOS PARTNER 1`, `NOMBRE Y APELLIDOS PARTNER 2` y  `NOMBRE Y APELLIDOS PARTNER 3`,  se les denominará los _SOCIOS EMPRENDEDORES_; para referirse a la sociedad `RAZÓN SOCIAL STARTUP`, se le denominará _STARTUP_; y para referirse a la sociedad mercantil_itnig_SOLUTIONS, S.L., se le denominará _itnig_. Todos ellos se denominarán conjuntamente los _SOCIOS_ o las _PARTES_ e individualmente el _SOCIO_.
+En adelante, para referirse a los socios `NOMBRE Y APELLIDOS PARTNER 1`, `NOMBRE Y APELLIDOS PARTNER 2` y  `NOMBRE Y APELLIDOS PARTNER 3`,  se les denominará los _SOCIOS EMPRENDEDORES_; para referirse a la sociedad `RAZÓN SOCIAL STARTUP`, se le denominará _STARTUP_; y para referirse a la sociedad mercantil _itnig_ SOLUTIONS, S.L., se le denominará _itnig_. Todos ellos se denominarán conjuntamente los _SOCIOS_ o las _PARTES_ e individualmente el _SOCIO_.
 
 Las _PARTES_, en la calidad en que intervienen, aseguran tener la capacidad legal necesaria para obligarse en los términos del presente contrato (en adelante, _PACTO DE SOCIOS_) y, en su virtud,
 
@@ -32,12 +32,12 @@ b. A día de hoy el capital social de la _STARTUP_ es de `CAPITAL SOCIAL STARTUP
 
 c. Actualmente la repartición del capital social de la _STARTUP_ entre los _SOCIOS EMPRENDEDORES_, es la siguiente:
 
-   |SOCIOS|PORCENTAJE|
-   |------|:----------:|
-   |`NOMBRE Y APELLIDOS PARTNER 1`|`CAPITAL SOCIAL PARTNER 1`%|
-   |`NOMBRE Y APELLIDOS PARTNER 2`|`CAPITAL SOCIAL  PARTNER 2`%|
-   |`NOMBRE Y APELLIDOS PARTNER 3`|`CAPITAL SOCIAL  PARTNER 3`%|
-   ||100%|
+| SOCIOS  | PORCENTAJE  |
+| ------- | :---------: |
+| `NOMBRE Y APELLIDOS PARTNER 1`  | `CAPITAL SOCIAL PARTNER 1`% |
+| `NOMBRE Y APELLIDOS PARTNER 2`  | `CAPITAL SOCIAL PARTNER 2`% |
+| `NOMBRE Y APELLIDOS PARTNER 3`  | `CAPITAL SOCIAL PARTNER 3`% |
+| | 100%  |
 
 d. _itnig_ es una aceleradora de negocios en Internet. _itnig_ se involucra en las primeras fases de los proyectos, focalizándose en alcanzar el crecimiento de la _STARTUP_ mediante la creación y gestión de equipos de profesionales con probada excelencia en las áreas de Desarrollo de Negocio, Experiencia de Usuario, Desarrollo de Software y Marketing Online.
 
@@ -169,7 +169,7 @@ f. Las _PARTES_ acuerdan regular sus relaciones jurídicas por medio del present
 
 ### 14. nuevos socios[^af]
 
-Cualquier tercero que pretenda adquirir participaciones de la_STARTUP_convirtiendose en SOCIO de la misma, deberá suscribir y aceptar de forma expresa todas y cada una de las cláusulas contenidas en el presente Pacto de Socios. Las _PARTES_ se comprometen a no permitir la entrada de ningun nuevo socio, sin la previa aceptacion por parte de este de las obligaciones en este Pacto de Socios mediante el otorgamiento del correspondiente Acuerdo o Carta de Adhesion.
+Cualquier tercero que pretenda adquirir participaciones de la _STARTUP_ convirtiendose en SOCIO de la misma, deberá suscribir y aceptar de forma expresa todas y cada una de las cláusulas contenidas en el presente Pacto de Socios. Las _PARTES_ se comprometen a no permitir la entrada de ningun nuevo socio, sin la previa aceptacion por parte de este de las obligaciones en este Pacto de Socios mediante el otorgamiento del correspondiente Acuerdo o Carta de Adhesion.
 
 ### 15. notificaciones
 
@@ -207,7 +207,7 @@ En caso de falta de veracidad o inexactitud en cualquier declaración realizada 
 
 [^c]: **Explicación: ¿En qué situación nos encontramos?** En este apartado se establecen los antecedentes bajo los cuales se firma este _PACTO DE SOCIOS_. Estos puntos nos servirán para entender por qué los _SOCIOS EMPRENDEDORES_ e _itnig_ hemos decidido entablar una relación de socios y cómo desarrollaremos esta relación.
 
-[^d]: **Explicación: ¿Qué hace la _STARTUP?** En este apartado se realizará una breve descripción de la actividad que desarrollará la _STARTUP.
+[^d]: **Explicación: ¿Qué hace la _STARTUP_?** En este apartado se realizará una breve descripción de la actividad que desarrollará la _STARTUP_.
 
 [^e]: **Explicación: ¡Estas son las reglas de juego!** Nos interesa dejar claro que este documento es el que rige nuestras relaciones como _SOCIOS_. Es muy probable que los Estatutos Sociales de la _STARTUP_ tengan un contenido estándar, por lo que en caso de contradicción entre estos y el presente _PACTO DE SOCIOS_, prevalecerá lo establecido en el _PACTO DE SOCIOS_.
 
