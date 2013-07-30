@@ -1,6 +1,6 @@
 # Presentación
 
-itnig y Delvy hemos trabajado intensamente para sintetizar en este documento todo el aprendizaje acumulado en estos años por nosotros y por muchas otras personas que nos ayudan y asesoran.
+itnig y Delvy hemos trabajado intensamente para sintetizar en [este documento](../master/theitnigagreement.md) todo el aprendizaje acumulado en estos años por nosotros y por muchas otras personas que nos ayudan y asesoran.
 
 El resultado es **the itnig agreement**, una propuesta de asociación que pretende ser muy respetuosa con los derechos de los emprendedores y en la que los aspectos más importantes o críticos están explicados con un lenguaje sencillo y claro, de manera que sean perfectamente comprensibles.
 
