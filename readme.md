@@ -12,4 +12,4 @@ Nuestros comentarios pueden ser de tres tipos:
 
 - **Procedimiento Legal:** Explicación de los procedimientos legales que puedan derivarse de la firma de este pacto de socios.
 
-Ponemos este trabajo en código abierto, con una sencilla licencia Creative Commons de atribución. Siéntete libre de hacer un fork y utilizar nuestro modelo para lo que consideres oportuno. Si descubres puntos que pueden explicarse mejor o simplemente ves errores ortográficos o gramáticales, no dudes en corregirlo y hacer un pull request. Por último, si vas a hacer un uso legal de este material, no dejes de [consultar nuestro Aviso legal](../avisolegal.md)
+Ponemos este trabajo en código abierto, con una sencilla licencia Creative Commons de atribución. Siéntete libre de hacer un fork y utilizar nuestro modelo para lo que consideres oportuno. Si descubres puntos que pueden explicarse mejor o simplemente ves errores ortográficos o gramáticales, no dudes en corregirlo y hacer un pull request. Por último, si vas a hacer un uso legal de este material, no dejes de [consultar nuestro Aviso legal](../blob/master/avisolegal.md)
