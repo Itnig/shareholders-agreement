@@ -192,7 +192,7 @@ Cualquier tercero que pretenda adquirir participaciones de la _STARTUP_
 convirtiéndose en SOCIO de la misma, deberá suscribir y aceptar de forma
 expresa todas y cada una de las cláusulas contenidas en el presente
 Pacto de Socios. Las _PARTES_ se comprometen a no permitir la entrada de
-ningún nuevo socio, sin la previa aceptacion por parte de este de las obligaciones en este Pacto de Socios mediante el otorgamiento del correspondiente Acuerdo o Carta de Adhesion.
+ningún nuevo socio, sin la previa aceptación por parte de este de las obligaciones en este Pacto de Socios mediante el otorgamiento del correspondiente Acuerdo o Carta de Adhesion.
 
 ### 15. notificaciones
 
