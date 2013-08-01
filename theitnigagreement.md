@@ -264,7 +264,7 @@ confirmen una serie de aspectos en relación a la situación jurídica y financi
 
 <a name="j"></a>**Explicación 8:**  Esta factura por servicios de aceleración no deberá ser pagada por la _STARTUP_, a cambio se reconocerá una deuda a favor de _itnig_ y, para compensarla, _itnig_ asumirá un 15% de la _STARTUP_.
 
-<a name="k"></a>**Punto Crítico 2: Propuesta de Valor de itnig.** Los servicios de aceleración que proveerá _itnig_ consisten en una serie de  Prestaciones esenciales para la etapa inicial de la _STARTUP_ y se encuentran detallados en [la web de itnig](http://itnig.net/es/el-proceso)
+<a name="k"></a>**Punto Crítico 2: Propuesta de Valor de itnig.** Los servicios de aceleración que proveerá _itnig_ consisten en una serie de Prestaciones esenciales para la etapa inicial de la _STARTUP_ y se encuentran detallados en [la web de itnig](http://itnig.net/es/el-proceso)
 
 <a name="l"></a>**Procedimiento Legal 2: ¿Cómo entra _itnig_ en la _STARTUP_?** Se realizará una ampliación de capital para crear nuevas participaciones que representen un 15% de la _STARTUP_. Esta ampliación no será pagada en efectivo, ya que se compensará con la deuda que tiene la _STARTUP_ con _itnig_ (por los servicios de aceleración antes mencionados). Para mayor información sobre estos temas, recomendamos leer [¿Cómo hacer una ampliación de capital?](http://delvy.es/ampliación-de-capital/) y [¿Cómo realizar una ampliación de capital por compensación de créditos?](http://delvy.es/ampliación-capital-compensacion-creditos/)
 
