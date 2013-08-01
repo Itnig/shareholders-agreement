@@ -140,7 +140,8 @@ dos mecanismos para hacer posible esta operación: (a) asunción por parte de _i
 
   4. En caso de que un _SOCIO_ fallezca, sus herederos deberán vender a los demás _SOCIOS_ el total de las participaciones del socio fallecido, de forma proporcional al porcentaje de los demás _SOCIOS_.
 
-9.4. En estos casos, el precio de dicha venta será el valor medio de adquisición del total de las participaciones titularidad del _SOCIO_ obligado a vender. A efectos de la presente cláusula, se entenderá como valor medio de adquisición, el promedio del historial de transmisiones de participaciones de cada _SOCIO_, desde las aportaciones realizadas en la constitución, otras transmisiones de participaciones u ampliaciónes de capital suscritas ([Explicación 13](#w)).
+9.4. En estos casos, el precio de dicha venta será el valor medio de
+adquisición del total de las participaciones cuyo titular sea el _SOCIO_ obligado a vender. A efectos de la presente cláusula, se entenderá como valor medio de adquisición, el promedio del historial de transmisiones de participaciones de cada _SOCIO_, desde las aportaciones realizadas en la constitución, otras transmisiones de participaciones u ampliaciónes de capital suscritas ([Explicación 13](#w)).
 
 9.5. En el supuesto de que un _SOCIO EMPRENDEDOR_ se desvincule de la _STARTUP_ por cualquiera de las causas previstas en la presente cláusula, estará obligado a vender a los demás _SOCIOS_ una parte de sus participaciones, según el porcentaje indicado en la siguiente tabla ([Explicación 14](#x)):
 
