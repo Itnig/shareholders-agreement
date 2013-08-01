@@ -255,7 +255,10 @@ indicará cuanto vale la _STARTUP_ con las aportaciones de _itnig_.
 
 <a name="g"></a>**Explicación 6:** Esta cantidad será calculada de conformidad a las aportaciones iniciales de han realizado los _SOCIOS EMPRENDEDORES_, teniendo en cuenta los activos tangibles e intangibles de la _STARTUP_, su fondo de comercio (clientes), entre otros aspectos.
 
-<a name="h"></a>**Punto Crítico 1: ¡La transparencia es fundamental!** La relación entre _itnig_ y los _SOCIOS EMPRENDEDORES_ se basa en la confianza mutua. Por ello, solicitamos a los emprendedores que nos confirmen una serie de aspectos en relación a la situacion jurídica y financiera actual de la _STARTUP_. Estos puntos se detallan en el Anexo I del _PACTO DE SOCIOS_, los cuales se explicarán de forma detallada más adelante.
+<a name="h"></a>**Punto Crítico 1: ¡La transparencia es fundamental!**
+La relación entre _itnig_ y los _SOCIOS EMPRENDEDORES_ se basa en la
+confianza mutua. Por ello, solicitamos a los emprendedores que nos
+confirmen una serie de aspectos en relación a la situación jurídica y financiera actual de la _STARTUP_. Estos puntos se detallan en el Anexo I del _PACTO DE SOCIOS_, los cuales se explicarán de forma detallada más adelante.
 
 <a name="i"></a>**Explicación 7:** Cantidad que corresponde al 15% de la Valoración Post-Money de la _STARTUP_.
 
