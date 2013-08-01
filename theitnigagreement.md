@@ -12,12 +12,11 @@ En Barcelona, a `FECHA`
 
 Bernat Farrero Badal, mayor de edad, con domicilio a efectos del presente contrato en Calle Álaba, número 61, 5º 2ª, 08005 Barcelona, y con DNI 47870680K.
 
-## intervienen
->[Explicación](#a)
+## intervienen[^a]
 
 `NOMBRE Y APELLIDOS PARTNER 1`, `NOMBRE Y APELLIDOS PARTNER 2`, `NOMBRE Y APELLIDOS PARTNER 3`, todos ellos en su propio nombre y representación. 
 
-`NOMBRE Y APELLIDOS PARTNER 1`, en nombre y representación de la sociedad `RAZÓN SOCIAL STARTUP`, con domicilio en `DOMICILIO STARTUP`, provista de NIF `NIF STARTUP`, debidamente inscrita el día `DÍA REGISTRO MERCANTIL` en el Registro Mercantil de `PROVINCIA REGISTRO MERCANTIL` en el tomo `TOMO REGISTRO MERCANTIL`, folio `FOLIO REGISTRO MERCANTIL`, hoja `HOJA REGISTRO MERCANTIL`, Inscripción `INSCRIPCIÓN REGISTRO MERCANTIL`. Actúa en su calidad de `TIPO DE ADMINISTRADOR DE LA STARTUP`.[Procedimiento Legal](#b)
+`NOMBRE Y APELLIDOS PARTNER 1`, en nombre y representación de la sociedad `RAZÓN SOCIAL STARTUP`, con domicilio en `DOMICILIO STARTUP`, provista de NIF `NIF STARTUP`, debidamente inscrita el día `DÍA REGISTRO MERCANTIL` en el Registro Mercantil de `PROVINCIA REGISTRO MERCANTIL` en el tomo `TOMO REGISTRO MERCANTIL`, folio `FOLIO REGISTRO MERCANTIL`, hoja `HOJA REGISTRO MERCANTIL`, Inscripción `INSCRIPCIÓN REGISTRO MERCANTIL`. Actúa en su calidad de `TIPO DE ADMINISTRADOR DE LA STARTUP`.[^b]
 
 Bernat Farrero Badal, en nombre y representación de la sociedad _itnig_ SOLUTIONS, S.L., con domicilio social en Calle Álaba, 61, 5 - 2 de Barcelona, provista de NIF B-65530271, e inscrita en el Registro Mercantil de Barcelona en el tomo 42481, folio 152, hoja B409715, inscripcion 1ª.  Actúa en su calidad de Administrador Único.
 
@@ -202,9 +201,9 @@ A la fecha de formalizacion del presente _PACTO DE SOCIOS_, los _SOCIOS EMPRENDE
 
 En caso de falta de veracidad o inexactitud en cualquier declaración realizada en este Anexo, que afecte negativamente la Valoración de la _STARTUP_, _itnig_ podrá modificar la Valoración inicial de entrada de _itnig_ en la _STARTUP_.
 
-[**¿Quiénes firmamos este contrato?** Lo firmamos todos los _SOCIOS EMPRENDEDORES_ e _itnig_, y además la misma _STARTUP_, para proporcionar una mayor vinculación entre todas las _PARTES_.](id:a)
+[^a]: **Explicación: ¿Quiénes firmamos este contrato?** Lo firmamos todos los _SOCIOS EMPRENDEDORES_ e _itnig_, y además la misma _STARTUP_, para proporcionar una mayor vinculación entre todas las _PARTES_.
 
-[**¿Cómo constituir una Sociedad Limitada?** Delvy Asesores como partners estratégicos de _itnig_ podrán asesorar al equipo emprendedor en el proceso de constitución de la Sociedad Limitada.  Para obtener información preliminar sobre este trámite puede consultarse el artículo [Pasos a seguir para constituir una SL](http://delvy.es/pasos-para-crear-una-sociedad-limitada/)](id:b)
+[^b]: **Procedimiento Legal: ¿Cómo constituir una Sociedad Limitada?** Delvy Asesores como partners estratégicos de _itnig_ podrán asesorar al equipo emprendedor en el proceso de constitución de la Sociedad Limitada.  Para obtener información preliminar sobre este trámite puede consultarse el artículo [Pasos a seguir para constituir una SL](http://delvy.es/pasos-para-crear-una-sociedad-limitada/)
 
 [^c]: **Explicación: ¿En qué situación nos encontramos?** En este apartado se establecen los antecedentes bajo los cuales se firma este _PACTO DE SOCIOS_. Estos puntos nos servirán para entender por qué los _SOCIOS EMPRENDEDORES_ e _itnig_ hemos decidido entablar una relación de socios y cómo desarrollaremos esta relación.
 
