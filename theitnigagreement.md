@@ -79,7 +79,10 @@ términos y condiciones que regirán las relaciones entre los socios `NOMBRE Y A
 financiera de la _STARTUP_ en todo momento, incluida la contabilidad
 diaria, información de tesorería y previsiones financieras.
 
-4.2. Asímismo, _itnig_ dispondrá de acceso, en tiempo real, a toda la información relativa a la audiencia e ingresos de las páginas web gestionadas por la _STARTUP_. En particular, _itnig_ tendrá acceso a los siguientes servicios: Google Analytics, Google Adsense, Google Adword, Kissmetrics, así como otros sistemas de métricas.
+4.2. Asímismo, _itnig_ dispondrá de acceso, en tiempo real, a toda la
+información relativa a la audiencia e ingresos de las páginas web
+gestionadas por la _STARTUP_. En particular, _itnig_ tendrá acceso a los
+siguientes servicios: Google Analytics, Google Adsense, Google Adwords, Kissmetrics, así como otros sistemas de métricas.
 
 ### 5. futura ronda de financiación
 
