@@ -186,7 +186,7 @@ Todas las notificaciones y comunicaciones que procedan, a efectos del presente _
 
 16.1. El presente _PACTO DE SOCIOS_ deberá ser interpretado y cumplido en sus propios términos y, en lo no previsto, se regirá por la legislación española.
 
-16.2. Para la solución de cualquier conflicto o cuestión litigiosa derivada de este _PACTO DE SOCIOS_, incluidos los que de ellos se deriven, así como su validez, las _PARTES_ se someten al arbitraje institucional del Tribunal Arbitral de Barcelona ([Procedimiento Legal 5](#ag)), de la Asociación Catalana para el Arbitraje, (TAB), -cualquiera que fuera su denominacion futura- a quien se encomienda la designación del árbitro o árbitros y la administración del arbitraje de acuerdo con su Reglamento vigente al inicio del arbitraje.
+16.2. Para la solución de cualquier conflicto o cuestión litigiosa derivada de este _PACTO DE SOCIOS_, incluidos los que de ellos se deriven, así como su validez, las _PARTES_ se someten al arbitraje institucional del Tribunal Arbitral de Barcelona ([Procedimiento Legal 6](#ag)), de la Asociación Catalana para el Arbitraje, (TAB), -cualquiera que fuera su denominacion futura- a quien se encomienda la designación del árbitro o árbitros y la administración del arbitraje de acuerdo con su Reglamento vigente al inicio del arbitraje.
 
 * * *
 
