@@ -210,7 +210,7 @@ Todas las notificaciones y comunicaciones que procedan, a efectos del presente _
 
 ## anexo I: declaraciones y garantías
 
-A la fecha de formalizacion del presente _PACTO DE SOCIOS_, los _SOCIOS EMPRENDEDORES_ declaran y garantizan a _itnig_ lo siguiente:
+A la fecha de formalización del presente _PACTO DE SOCIOS_, los _SOCIOS EMPRENDEDORES_ declaran y garantizan a _itnig_ lo siguiente:
 
 1. Que son los únicos propietarios del 100% de las participaciones sociales de la _STARTUP_ y que así seguirá siendo hasta que se formalice la entrada de _itnig_ como _SOCIO_, mediante la ampliación de capital por compensación de créditos prevista en el _PACTO DE SOCIOS_.
 
