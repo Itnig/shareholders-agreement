@@ -88,7 +88,12 @@ siguientes servicios: Google Analytics, Google Adsense, Google Adwords, Kissmetr
 
 5.1. Las _PARTES_ acuerdan que cualquier ampliación de capital posterior a la recogida en este acuerdo, deberá realizarse con prima de emisión a una Valoración Post-Money de al menos **CIENTO CINCUENTA MIL (150.000) Euros** ([Explicación 9](#o)).
 
-5.2. Si se realizase una ampliación de capital con Valoración Post-Money inferior a **CIENTO CINCUENTA MIL (150.000) Euros**, los SOCIOS se comprometen a facilitar a _itnig_ el número de participaciones necesarias para que conserve el **QUINCE POR CIENTO (15%)** del capital social de la _STARTUP_. Según las circunstancias, se podrá optar entre dos mecanismos para hacer posible esta operación: (a) asuncion por parte de _itnig_ de participaciones liberadas por ampliación de capital con cargo a reservas o (b) transmisión de participaciones por parte de los _SOCIOS EMPRENDEDORES_ a _itnig_ a valor nominal ([Punto Crítico 4](#p)).
+5.2. Si se realizase una ampliación de capital con Valoración Post-Money
+inferior a **CIENTO CINCUENTA MIL (150.000) Euros**, los SOCIOS se
+comprometen a facilitar a _itnig_ el número de participaciones
+necesarias para que conserve el **QUINCE POR CIENTO (15%)** del capital
+social de la _STARTUP_. Según las circunstancias, se podrá optar entre
+dos mecanismos para hacer posible esta operación: (a) asunción por parte de _itnig_ de participaciones liberadas por ampliación de capital con cargo a reservas o (b) transmisión de participaciones por parte de los _SOCIOS EMPRENDEDORES_ a _itnig_ a valor nominal ([Punto Crítico 4](#p)).
 
 ### 6. cargos
 
