@@ -218,7 +218,15 @@ A la fecha de formalización del presente _PACTO DE SOCIOS_, los _SOCIOS EMPREND
 
 3. Que la _STARTUP_ ha cumplido con todas las obligaciones legales (incluídas las fiscales, administrativas, de protección de datos de caracter personal, laborales y de la seguridad social) que fueren de aplicación en cada momento ([Explicación 20](#ah)).
 
-4. Que la _STARTUP_ es titular de la marca `MARCA STARTUP`, debidamente registrada, sin que se haya producido objeción u oposición alguna de terceros. En caso que dicha Marca no se encuentre Registrada y debidamente protegida, los _SOCIOS EMPRENDEDORES_ se comprometen a realizar las gestiones para garantizar este aspecto, en el máximo de un mes desde la fecha del presente _PACTO DE SOCIOS_. De igual manera, que la _STARTUP_ es titular de los siguientes dominios: `DOMINIO_STARTUP_1`, `DOMINIO_STARTUP_2`, `DOMINIO_STARTUP_3`. En caso que el titular de estos dominios sea un _SOCIO EMPRENDEDOR_ este se compromete a efectuar el cambio de titularidad en un plazo máximo de un mes desde la fecha del presente _PACTO DE SOCIOS_ ([Punto Crítico 9](#ai)).
+4. Que la _STARTUP_ es titular de la marca `MARCA STARTUP`, debidamente
+registrada, sin que se haya producido objeción u oposición alguna de
+terceros. En caso que dicha Marca no se encuentre Registrada y
+debidamente protegida, los _SOCIOS EMPRENDEDORES_ se comprometen a
+realizar las gestiones para garantizar este aspecto, en el máximo de un
+mes desde la fecha del presente _PACTO DE SOCIOS_. De igual manera, que
+la _STARTUP_ es titular de los siguientes dominios: `DOMINIO_STARTUP_1`,
+`DOMINIO_STARTUP_2`, `DOMINIO_STARTUP_3`. En caso que el titular de
+estos dominios sea un _SOCIO EMPRENDEDOR_ éste se compromete a efectuar el cambio de titularidad en un plazo máximo de un mes desde la fecha del presente _PACTO DE SOCIOS_ ([Punto Crítico 9](#ai)).
 
 5. Que la _STARTUP_ no infringe ni ha infringido ningún derecho de propiedad industrial o intelectual, nombre de dominio o denominación social de un tercero y está legítimamente autorizada para el uso de todos los derechos de propiedad industrial o intelectual, y nombres de dominio que utiliza.
 
