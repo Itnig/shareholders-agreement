@@ -121,7 +121,7 @@ dos mecanismos para hacer posible esta operación: (a) asunción por parte de _i
 
  b. Emplear o contratar cualquier persona que, en el plazo de un año desde el momento en que deje de ser _SOCIO_, haya sido empleado, agente, consultor o un representante similar de la _STARTUP_ ([Explicación 11](#s)).
 
-8.2. Junta General acordara por mayoría, excluyéndose de la votación en su caso al _SOCIO_ interesado, que la actividad que realice un determinado _SOCIO EMPRENDEDOR_ es considerada como competidora de la _STARTUP_.
+8.2. Junta General acordará por mayoría, excluyéndose de la votación en su caso al _SOCIO_ interesado, que la actividad que realice un determinado _SOCIO EMPRENDEDOR_ es considerada como competidora de la _STARTUP_.
 
 ### 9. desvinculación del socio emprendedors de la startup
 >[Punto Crítico 6](#t)
