@@ -12,7 +12,8 @@ En Barcelona, a `FECHA`
 
 Bernat Farrero Badal, mayor de edad, con domicilio a efectos del presente contrato en Calle Álaba, número 61, 5º 2ª, 08005 Barcelona, y con DNI 47870680K.
 
-## intervienen[^a]
+## intervienen
+>[Explicación](#a)
 
 `NOMBRE Y APELLIDOS PARTNER 1`, `NOMBRE Y APELLIDOS PARTNER 2`, `NOMBRE Y APELLIDOS PARTNER 3`, todos ellos en su propio nombre y representación. 
 
@@ -201,7 +202,7 @@ A la fecha de formalizacion del presente _PACTO DE SOCIOS_, los _SOCIOS EMPRENDE
 
 En caso de falta de veracidad o inexactitud en cualquier declaración realizada en este Anexo, que afecte negativamente la Valoración de la _STARTUP_, _itnig_ podrá modificar la Valoración inicial de entrada de _itnig_ en la _STARTUP_.
 
-[^a]: **Explicación: ¿Quiénes firmamos este contrato?** Lo firmamos todos los _SOCIOS EMPRENDEDORES_ e _itnig_, y además la misma _STARTUP_, para proporcionar una mayor vinculación entre todas las _PARTES_.
+<p id="a"> **Explicación: ¿Quiénes firmamos este contrato?** Lo firmamos todos los _SOCIOS EMPRENDEDORES_ e _itnig_, y además la misma _STARTUP_, para proporcionar una mayor vinculación entre todas las _PARTES_.</p>
 
 [^b]: **Procedimiento Legal: ¿Cómo constituir una Sociedad Limitada?** Delvy Asesores como partners estratégicos de _itnig_ podrán asesorar al equipo emprendedor en el proceso de constitución de la Sociedad Limitada.  Para obtener información preliminar sobre este trámite puede consultarse el artículo [Pasos a seguir para constituir una SL](http://delvy.es/pasos-para-crear-una-sociedad-limitada/)
 
