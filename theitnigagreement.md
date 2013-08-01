@@ -312,4 +312,7 @@ confirmen una serie de aspectos en relación a la situación jurídica y financi
 
 <a name="ah"></a>**Explicación 20: Estado fiscal y legal actual de la _STARTUP_.** El objetivo de esta cláusula es evitar encontrarnos en una situación donde, a causa de la falta de cumplimiento de las obligaciones legales y fiscales por parte de la _STARTUP_, se ponga en peligro la continuidad de la misma.
 
-<a name="ai"></a>**Punto Crítico 9: La propiedad intelectual e industrial debe ser de la _STARTUP_**. La Sociedad debe ser la titular y dueña de la Marca y dominios con los cuales opera, no los _SOCIOS EMPRENDEDORES_ de forma particular. Si este no es el caso, debe regularse esta situación lo más pronto posible, registrando la Marca y/o cambiando de titularidad los dominios con los que se opera.
+<a name="ai"></a>**Punto Crítico 9: La propiedad intelectual e
+industrial debe ser de la _STARTUP_**. La Sociedad debe ser la titular y
+dueña de la Marca y dominios con los cuales opera, no los _SOCIOS
+EMPRENDEDORES_ de forma particular. Si éste no es el caso, debe regularse esta situación lo más pronto posible, registrando la Marca y/o cambiando de titularidad los dominios con los que se opera.
