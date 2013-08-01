@@ -56,7 +56,7 @@ términos y condiciones que regirán las relaciones entre los socios `NOMBRE Y A
 
 1.2. Las _PARTES_ acuerdan de forma expresa que lo pactado en el presente _PACTO DE SOCIOS_ prevalece sobre la regulación que contienen los Estatutos Sociales de la _STARTUP_ ([Explicación 4](#e)).
 
-1.3. Asímismo el presente _PACTO DE SOCIOS_ entrará en vigor el día de su firma y tendrá una duración indefinida.
+1.3. Asimismo el presente _PACTO DE SOCIOS_ entrará en vigor el día de su firma y tendrá una duración indefinida.
 
 ### 2. valoración inicial de la startup
 
