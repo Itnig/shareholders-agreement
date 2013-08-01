@@ -123,7 +123,7 @@ dos mecanismos para hacer posible esta operación: (a) asunción por parte de _i
 
 8.2. Junta General acordará por mayoría, excluyéndose de la votación en su caso al _SOCIO_ interesado, que la actividad que realice un determinado _SOCIO EMPRENDEDOR_ es considerada como competidora de la _STARTUP_.
 
-### 9. desvinculación del socio emprendedors de la startup
+### 9. desvinculación del socio emprendedor de la startup
 >[Punto Crítico 6](#t)
 
 9.1. En caso de que uno de los _SOCIOS EMPRENDEDORES_ deje la _STARTUP_ o deje de prestar sus servicios y desempeñar el cargo previamente establecido en el presente _PACTO DE SOCIOS_ ([Explicación 12](#u)), los demás _SOCIOS_ adquirirán una Opción de Compra ([Procedimiento Legal 4](#v)), por la cual el _SOCIO_ en cuestión estará obligado a vender una parte de sus participaciones en la _STARTUP_, a los otros _SOCIOS_ en proporción a su participación en el capital social, y en defecto de ejercicio por parte de estos, a la _STARTUP_, si así lo decide la Junta General de Socios de la misma.
