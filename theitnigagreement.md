@@ -51,7 +51,8 @@ f. Las _PARTES_ acuerdan regular sus relaciones jurídicas por medio del present
 
 ### 1. objeto del pacto de socios
 
-1.1. El presente _PACTO DE SOCIOS_ tiene como finalidad regular los términos y condiciones que regiran las relaciones entre los socios `NOMBRE Y APELLIDOS PARTNER 1`, `NOMBRE Y APELLIDOS PARTNER 2` y  `NOMBRE Y APELLIDOS PARTNER 3` e _itnig_, en tanto _SOCIOS_ titulares del 100% del capital social de la _STARTUP_.
+1.1. El presente _PACTO DE SOCIOS_ tiene como finalidad regular los
+términos y condiciones que regirán las relaciones entre los socios `NOMBRE Y APELLIDOS PARTNER 1`, `NOMBRE Y APELLIDOS PARTNER 2` y  `NOMBRE Y APELLIDOS PARTNER 3` e _itnig_, en tanto _SOCIOS_ titulares del 100% del capital social de la _STARTUP_.
 
 1.2. Las _PARTES_ acuerdan de forma expresa que lo pactado en el presente _PACTO DE SOCIOS_ prevalece sobre la regulación que contienen los Estatutos Sociales de la _STARTUP_ ([Explicación 4](#e)).
 
