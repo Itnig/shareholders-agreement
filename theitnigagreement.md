@@ -75,7 +75,7 @@ términos y condiciones que regirán las relaciones entre los socios `NOMBRE Y A
 ### 4. derecho de información
 >[Punto Crítico 3](#n)
 
-4.1. Las _PARTES_ acuerdan que _itnig_ podrá acceder a la información financiera de la _STARTUP_ en todo momento, incluída la contabilidad diaria, información de tesoreria y previsiones financieras.
+4.1. Las _PARTES_ acuerdan que _itnig_ podrá acceder a la información financiera de la _STARTUP_ en todo momento, incluida la contabilidad diaria, información de tesoreria y previsiones financieras.
 
 4.2. Asímismo, _itnig_ dispondrá de acceso, en tiempo real, a toda la información relativa a la audiencia e ingresos de las páginas web gestionadas por la _STARTUP_. En particular, _itnig_ tendrá acceso a los siguientes servicios: Google Analytics, Google Adsense, Google Adword, Kissmetrics, así como otros sistemas de métricas.
 
