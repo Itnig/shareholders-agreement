@@ -248,7 +248,10 @@ En caso de falta de veracidad o inexactitud en cualquier declaración realizada 
 
 <a name="e"></a>**Explicación 4: ¡Estas son las reglas de juego!** Nos interesa dejar claro que este documento es el que rige nuestras relaciones como _SOCIOS_. Es muy probable que los Estatutos Sociales de la _STARTUP_ tengan un contenido estándar, por lo que en caso de contradicción entre estos y el presente _PACTO DE SOCIOS_, prevalecerá lo establecido en el _PACTO DE SOCIOS_.
 
-<a name="f"></a>**Explicación 5: ¿Cuánto vale la _STARTUP_?** La Valoración Post-Money indica cuánto vale una empresa una vez ha recibido una aportación de capital por parte de un inversor. En este caso, nos indicara cuanto vale la _STARTUP_ con las aportaciones de _itnig_.
+<a name="f"></a>**Explicación 5: ¿Cuánto vale la _STARTUP_?** La
+Valoración Post-Money indica cuánto vale una empresa una vez ha recibido
+una aportación de capital por parte de un inversor. En este caso, nos
+indicará cuanto vale la _STARTUP_ con las aportaciones de _itnig_.
 
 <a name="g"></a>**Explicación 6:** Esta cantidad será calculada de conformidad a las aportaciones iniciales de han realizado los _SOCIOS EMPRENDEDORES_, teniendo en cuenta los activos tangibles e intangibles de la _STARTUP_, su fondo de comercio (clientes), entre otros aspectos.
 
