@@ -4,22 +4,22 @@ En Barcelona, a `FECHA`
 
 ## reunidos
 
-`NOMBRE Y APELLIDOS PARTNER 1`, mayor de edad, con domicilio en `DOMICILIO PARTNER  1` y con DNI `DNI Partner 1`. 
+`NOMBRE Y APELLIDOS PARTNER 1`, mayor de edad, con domicilio en `DOMICILIO PARTNER  1` y con DNI `DNI Partner 1`.
 
-`NOMBRE Y APELLIDOS PARTNER 2`, mayor de edad, con domicilio en `DOMICILIO PARTNER  2` y con DNI `DNI Partner 2`. 
+`NOMBRE Y APELLIDOS PARTNER 2`, mayor de edad, con domicilio en `DOMICILIO PARTNER  2` y con DNI `DNI Partner 2`.
 
-`NOMBRE Y APELLIDOS PARTNER 3` , mayor de edad, con domicilio en `DOMICILIO PARTNER 3` y con DNI `DNI PARTNER 3`. 
+`NOMBRE Y APELLIDOS PARTNER 3` , mayor de edad, con domicilio en `DOMICILIO PARTNER 3` y con DNI `DNI PARTNER 3`.
 
 Bernat Farrero Badal, mayor de edad, con domicilio a efectos del presente contrato en Calle Álaba, número 61, 5º 2ª, 08005 Barcelona, y con DNI 47870680K.
 
 ## intervienen
 >[Explicación 1](#a)
 
-`NOMBRE Y APELLIDOS PARTNER 1`, `NOMBRE Y APELLIDOS PARTNER 2`, `NOMBRE Y APELLIDOS PARTNER 3`, todos ellos en su propio nombre y representación. 
+`NOMBRE Y APELLIDOS PARTNER 1`, `NOMBRE Y APELLIDOS PARTNER 2`, `NOMBRE Y APELLIDOS PARTNER 3`, todos ellos en su propio nombre y representación.
 
 `NOMBRE Y APELLIDOS PARTNER 1`, en nombre y representación de la sociedad `RAZÓN SOCIAL STARTUP`, con domicilio en `DOMICILIO STARTUP`, provista de NIF `NIF STARTUP`, debidamente inscrita el día `DÍA REGISTRO MERCANTIL` en el Registro Mercantil de `PROVINCIA REGISTRO MERCANTIL` en el tomo `TOMO REGISTRO MERCANTIL`, folio `FOLIO REGISTRO MERCANTIL`, hoja `HOJA REGISTRO MERCANTIL`, Inscripción `INSCRIPCIÓN REGISTRO MERCANTIL`. Actúa en su calidad de `TIPO DE ADMINISTRADOR DE LA STARTUP` ([Procedimiento Legal 1](#b)).
 
-Bernat Farrero Badal, en nombre y representación de la sociedad _itnig_ SOLUTIONS, S.L., con domicilio social en Calle Álaba, 61, 5 - 2 de Barcelona, provista de NIF B-65530271, e inscrita en el Registro Mercantil de Barcelona en el tomo 42481, folio 152, hoja B409715, inscripcion 1ª.  Actúa en su calidad de Administrador Único.
+Bernat Farrero Badal, en nombre y representación de la sociedad _itnig_ SOLUTIONS, S.L., con domicilio social en Calle Álaba, 61, 5 - 2 de Barcelona, provista de NIF B-65530271, e inscrita en el Registro Mercantil de Barcelona en el tomo 42481, folio 152, hoja B409715, inscripcion 1ª. Actúa en su calidad de Administrador Único.
 
 En adelante, para referirse a los socios `NOMBRE Y APELLIDOS PARTNER 1`, `NOMBRE Y APELLIDOS PARTNER 2` y  `NOMBRE Y APELLIDOS PARTNER 3`,  se les denominará los _SOCIOS EMPRENDEDORES_; para referirse a la sociedad `RAZÓN SOCIAL STARTUP`, se le denominará _STARTUP_; y para referirse a la sociedad mercantil _itnig_ SOLUTIONS, S.L., se le denominará _itnig_. Todos ellos se denominarán conjuntamente los _SOCIOS_ o las _PARTES_ e individualmente el _SOCIO_.
 
@@ -43,19 +43,20 @@ c. Actualmente la repartición del capital social de la _STARTUP_ entre los _SOC
 
 d. _itnig_ es una aceleradora de negocios en Internet. _itnig_ se involucra en las primeras fases de los proyectos, focalizándose en alcanzar el crecimiento de la _STARTUP_ mediante la creación y gestión de equipos de profesionales con probada excelencia en las áreas de Desarrollo de Negocio, Experiencia de Usuario, Desarrollo de Software y Marketing Online.
 
-e. _itnig_ está interesada en participar en la _STARTUP_ realizando las aportaciones que más adelante se detallan, adquiriendo un 15% del capital social de la _STARTUP_. Por su parte, los _SOCIOS EMPRENDEDORES_ están interesados en dar entrada a _itnig_ como _SOCIO_ de la _STARTUP_, lo cual se realizará por medio de una ampliación de capital, según se regula más adelante en el presente contrato. 
+e. _itnig_ está interesada en participar en la _STARTUP_ realizando las aportaciones que más adelante se detallan, adquiriendo un 15% del capital social de la _STARTUP_. Por su parte, los _SOCIOS EMPRENDEDORES_ están interesados en dar entrada a _itnig_ como _SOCIO_ de la _STARTUP_, lo cual se realizará por medio de una ampliación de capital, según se regula más adelante en el presente contrato.
 
-f. Las _PARTES_ acuerdan regular sus relaciones jurídicas por medio del presente contrato, el cual se superpone a cualquier acuerdo previo, entre los _SOCIOS EMPRENDEDORES_ e _itnig_, que regule sus relaciones como _SOCIOS_ de la _STARTUP_, que pasarán a regirse única y exclusivamente por el presente documento, de conformidad con las siguientes, 
+f. Las _PARTES_ acuerdan regular sus relaciones jurídicas por medio del presente contrato, el cual se superpone a cualquier acuerdo previo, entre los _SOCIOS EMPRENDEDORES_ e _itnig_, que regule sus relaciones como _SOCIOS_ de la _STARTUP_, que pasarán a regirse única y exclusivamente por el presente documento, de conformidad con las siguientes,
 
 ## cláusulas
 
 ### 1. objeto del pacto de socios
 
-1.1. El presente _PACTO DE SOCIOS_ tiene como finalidad regular los términos y condiciones que regiran las relaciones entre los socios `NOMBRE Y APELLIDOS PARTNER 1`, `NOMBRE Y APELLIDOS PARTNER 2` y  `NOMBRE Y APELLIDOS PARTNER 3` e _itnig_, en tanto _SOCIOS_ titulares del 100% del capital social de la _STARTUP_.
+1.1. El presente _PACTO DE SOCIOS_ tiene como finalidad regular los
+términos y condiciones que regirán las relaciones entre los socios `NOMBRE Y APELLIDOS PARTNER 1`, `NOMBRE Y APELLIDOS PARTNER 2` y  `NOMBRE Y APELLIDOS PARTNER 3` e _itnig_, en tanto _SOCIOS_ titulares del 100% del capital social de la _STARTUP_.
 
 1.2. Las _PARTES_ acuerdan de forma expresa que lo pactado en el presente _PACTO DE SOCIOS_ prevalece sobre la regulación que contienen los Estatutos Sociales de la _STARTUP_ ([Explicación 4](#e)).
 
-1.3. Asímismo el presente _PACTO DE SOCIOS_ entrará en vigor el día de su firma y tendrá una duración indefinida.
+1.3. Asimismo el presente _PACTO DE SOCIOS_ entrará en vigor el día de su firma y tendrá una duración indefinida.
 
 ### 2. valoración inicial de la startup
 
@@ -65,7 +66,7 @@ f. Las _PARTES_ acuerdan regular sus relaciones jurídicas por medio del present
 
 ### 3. entrada y participación de itnig
 
-3.1. _itnig_ aportará a la _STARTUP_ servicios de aceleración valorados en **QUINCE MIL (15.000) Euros** ([Explicación 7](#i)). 
+3.1. _itnig_ aportará a la _STARTUP_ servicios de aceleración valorados en **QUINCE MIL (15.000) Euros** ([Explicación 7](#i)).
 
 3.2. _itnig_ emitirá a la _STARTUP_ una factura por **QUINCE MIL (15.000) Euros**, IVA incluido, ([Explicación 8](#j)) en concepto de servicios de aceleración ([Punto Crítico 2](#k)), adquiriendo un derecho de crédito, el cual deberá ser convertido obligatoriamente a capital, mediante una ampliación de capital por compensación de créditos ([Procedimiento Legal 2](#l)), que supondrá la asunción por parte de _itnig_ del **QUINCE POR CIENTO (15%)** del capital social de la  _STARTUP_.
 
@@ -74,21 +75,31 @@ f. Las _PARTES_ acuerdan regular sus relaciones jurídicas por medio del present
 ### 4. derecho de información
 >[Punto Crítico 3](#n)
 
-4.1. Las _PARTES_ acuerdan que _itnig_ podrá acceder a la información financiera de la _STARTUP_ en todo momento, incluída la contabilidad diaria, información de tesoreria y previsiones financieras.
+4.1. Las _PARTES_ acuerdan que _itnig_ podrá acceder a la información
+financiera de la _STARTUP_ en todo momento, incluida la contabilidad
+diaria, información de tesorería y previsiones financieras.
 
-4.2. Asímismo, _itnig_ dispondrá de acceso, en tiempo real, a toda la información relativa a la audiencia e ingresos de las páginas web gestionadas por la _STARTUP_. En particular, _itnig_ tendrá acceso a los siguientes servicios: Google Analytics, Google Adsense, Google Adword, Kissmetrics, así como otros sistemas de métricas.
+4.2. Asímismo, _itnig_ dispondrá de acceso, en tiempo real, a toda la
+información relativa a la audiencia e ingresos de las páginas web
+gestionadas por la _STARTUP_. En particular, _itnig_ tendrá acceso a los
+siguientes servicios: Google Analytics, Google Adsense, Google Adwords, Kissmetrics, así como otros sistemas de métricas.
 
 ### 5. futura ronda de financiación
 
-5.1. Las _PARTES_ acuerdan que cualquier ampliación de capital posterior a la recogida en este acuerdo, deberá realizarse con prima de emisión a una Valoración Post-Money de al menos **CIENTO CINCUENTA MIL (150.000) Euros** ([Explicación 9](#o)).  
+5.1. Las _PARTES_ acuerdan que cualquier ampliación de capital posterior a la recogida en este acuerdo, deberá realizarse con prima de emisión a una Valoración Post-Money de al menos **CIENTO CINCUENTA MIL (150.000) Euros** ([Explicación 9](#o)).
 
-5.2. Si se realizase una ampliación de capital con Valoración Post-Money inferior a **CIENTO CINCUENTA MIL (150.000) Euros**, los SOCIOS se comprometen a facilitar a _itnig_ el número de participaciones necesarias para que conserve el **QUINCE POR CIENTO (15%)** del capital social de la _STARTUP_. Según las circunstancias, se podrá optar entre dos mecanismos para hacer posible esta operación: (a) asuncion por parte de _itnig_ de participaciones liberadas por ampliación de capital con cargo a reservas o (b) transmisión de participaciones por parte de los _SOCIOS EMPRENDEDORES_ a _itnig_ a valor nominal ([Punto Crítico 4](#p)).
+5.2. Si se realizase una ampliación de capital con Valoración Post-Money
+inferior a **CIENTO CINCUENTA MIL (150.000) Euros**, los SOCIOS se
+comprometen a facilitar a _itnig_ el número de participaciones
+necesarias para que conserve el **QUINCE POR CIENTO (15%)** del capital
+social de la _STARTUP_. Según las circunstancias, se podrá optar entre
+dos mecanismos para hacer posible esta operación: (a) asunción por parte de _itnig_ de participaciones liberadas por ampliación de capital con cargo a reservas o (b) transmisión de participaciones por parte de los _SOCIOS EMPRENDEDORES_ a _itnig_ a valor nominal ([Punto Crítico 4](#p)).
 
-### 6. cargos 
+### 6. cargos
 
-6.1. Los _SOCIOS EMPRENDEDORES_ desempeñarán en la _STARTUP_ los siguientes cargos: 
+6.1. Los _SOCIOS EMPRENDEDORES_ desempeñarán en la _STARTUP_ los siguientes cargos:
 
-6.2. `NOMBRE Y APELLIDOS PARTNER 1` asumirá las funciones de CEO o Director Ejecutivo. Tendrá como responsabilidades la `RESPONSABILIDADES PARTNER 1`.  
+6.2. `NOMBRE Y APELLIDOS PARTNER 1` asumirá las funciones de CEO o Director Ejecutivo. Tendrá como responsabilidades la `RESPONSABILIDADES PARTNER 1`.
 
 `NOMBRE Y APELLIDOS PARTNER 2`, asumirá las funciones de `CARGO PARTNER 2`. Tendrá como responsabilidades `RESPONSABILIDADES PARTNER 2`.
 
@@ -104,15 +115,15 @@ f. Las _PARTES_ acuerdan regular sus relaciones jurídicas por medio del present
 
 ### 8. compromiso de no competencia
 
-8.1. Mientras los _SOCIOS EMPRENDEDORES_ sean _SOCIOS_ de la _STARTUP_, ya sea de forma directa o indirecta, y durante el año siguiente al cese efectivo de su condición de _SOCIO_, estos no deberán, de forma directa o indirecta, bajo ninguna capacidad: 
+8.1. Mientras los _SOCIOS EMPRENDEDORES_ sean _SOCIOS_ de la _STARTUP_, ya sea de forma directa o indirecta, y durante el año siguiente al cese efectivo de su condición de _SOCIO_, estos no deberán, de forma directa o indirecta, bajo ninguna capacidad:
 
- a. Ser propietarios, dirigir, operar, controlar, participar (ya sea como inversor, directivo o de otra manera), ser empleado por, prestar servicios de consultoría, en cualquiera de los sectores constitutivos del ámbito de actividad de la _STARTUP_, que en la actualidad se centra en `DESCRIPCIÓN ACTIVIDAD MERCANTIL STARTUP`, ni se dedicará por cuenta propia o ajena a la explotación o comercialización de actividades que puedan ser reputadas como competidoras de la _STARTUP_, bajo ninguna forma jurídica, ya sea directa o indirectamente o a través de personas y/o entidades interpuestas o fiduciarias. 
+ a. Ser propietarios, dirigir, operar, controlar, participar (ya sea como inversor, directivo o de otra manera), ser empleado por, prestar servicios de consultoría, en cualquiera de los sectores constitutivos del ámbito de actividad de la _STARTUP_, que en la actualidad se centra en `DESCRIPCIÓN ACTIVIDAD MERCANTIL STARTUP`, ni se dedicará por cuenta propia o ajena a la explotación o comercialización de actividades que puedan ser reputadas como competidoras de la _STARTUP_, bajo ninguna forma jurídica, ya sea directa o indirectamente o a través de personas y/o entidades interpuestas o fiduciarias.
 
  b. Emplear o contratar cualquier persona que, en el plazo de un año desde el momento en que deje de ser _SOCIO_, haya sido empleado, agente, consultor o un representante similar de la _STARTUP_ ([Explicación 11](#s)).
 
-8.2. Junta General acordara por mayoría, excluyéndose de la votación en su caso al _SOCIO_ interesado, que la actividad que realice un determinado _SOCIO EMPRENDEDOR_ es considerada como competidora de la _STARTUP_.
+8.2. Junta General acordará por mayoría, excluyéndose de la votación en su caso al _SOCIO_ interesado, que la actividad que realice un determinado _SOCIO EMPRENDEDOR_ es considerada como competidora de la _STARTUP_.
 
-### 9. desvinculación del socio emprendedors de la startup
+### 9. desvinculación del socio emprendedor de la startup
 >[Punto Crítico 6](#t)
 
 9.1. En caso de que uno de los _SOCIOS EMPRENDEDORES_ deje la _STARTUP_ o deje de prestar sus servicios y desempeñar el cargo previamente establecido en el presente _PACTO DE SOCIOS_ ([Explicación 12](#u)), los demás _SOCIOS_ adquirirán una Opción de Compra ([Procedimiento Legal 4](#v)), por la cual el _SOCIO_ en cuestión estará obligado a vender una parte de sus participaciones en la _STARTUP_, a los otros _SOCIOS_ en proporción a su participación en el capital social, y en defecto de ejercicio por parte de estos, a la _STARTUP_, si así lo decide la Junta General de Socios de la misma.
@@ -127,9 +138,10 @@ f. Las _PARTES_ acuerdan regular sus relaciones jurídicas por medio del present
 
  3. En caso de que un _SOCIO_ incumpla su compromiso de No Competencia regulado en la cláusula 8. En este caso, la Junta General deberá acordar por mayoría, excluyendo de la votación al _SOCIO_ en cuestión, que la actividad que realiza dicho _SOCIO_ es constitutiva de competencia directa de la _STARTUP_.
 
-  4. En caso de que un _SOCIO_ fallezca, sus herederos deberán vender a los demás _SOCIOS_ el total de las participaciones del socio fallecido, de forma proporcional al porcentaje de los demás _SOCIOS_. 
+  4. En caso de que un _SOCIO_ fallezca, sus herederos deberán vender a los demás _SOCIOS_ el total de las participaciones del socio fallecido, de forma proporcional al porcentaje de los demás _SOCIOS_.
 
-9.4. En estos casos, el precio de dicha venta será el valor medio de adquisición del total de las participaciones titularidad del _SOCIO_ obligado a vender. A efectos de la presente cláusula, se entenderá como valor medio de adquisición, el promedio del historial de transmisiones de participaciones de cada _SOCIO_, desde las aportaciones realizadas en la constitución, otras transmisiones de participaciones u ampliaciónes de capital suscritas ([Explicación 13](#w)).
+9.4. En estos casos, el precio de dicha venta será el valor medio de
+adquisición del total de las participaciones cuyo titular sea el _SOCIO_ obligado a vender. A efectos de la presente cláusula, se entenderá como valor medio de adquisición, el promedio del historial de transmisiones de participaciones de cada _SOCIO_, desde las aportaciones realizadas en la constitución, otras transmisiones de participaciones u ampliaciónes de capital suscritas ([Explicación 13](#w)).
 
 9.5. En el supuesto de que un _SOCIO EMPRENDEDOR_ se desvincule de la _STARTUP_ por cualquiera de las causas previstas en la presente cláusula, estará obligado a vender a los demás _SOCIOS_ una parte de sus participaciones, según el porcentaje indicado en la siguiente tabla ([Explicación 14](#x)):
 
@@ -156,12 +168,12 @@ f. Las _PARTES_ acuerdan regular sus relaciones jurídicas por medio del present
 
 11.1. Si cualquiera de los _SOCIOS_ recibiera una oferta de compra sobre la totalidad de participaciones (100%) del capital social de la _STARTUP_, a cambio de dinero en efectivo, participaciones de otra sociedad o acciones cotizadas, y esta oferta contara con la aprobación de un número de _SOCIOS_ que representen al menos el 65% del capital de la _STARTUP_, dicho(s) _SOCIO(S)_ tendrá(n) un derecho de arrastre o _drag-along_ frente a todos los demás _SOCIOS_. En este supuesto, los restantes _SOCIOS_ dispondrán de un plazo de 90 días desde la fecha de la comunicación de la oferta para la adquisición preferente de las participaciones objeto de la venta, por el mismo importe de la oferta recibida. En caso de que no se ejerza el derecho de adquisición preferente, los restantes _SOCIOS_ estarían obligados a vender la parte proporcional correspondiente de su participación por el mismo precio y condiciones que los ofrecidos por el tercero interesado ([Explicación 15](#ab)).
 
-11.2. Para ejecutar la presente cláusula, el precio ofrecido por el tercero por el 100% de las participaciones del capital de la _STARTUP_ no podrá ser inferior a **TRES CIENTOS MIL (300.000) Euros** ([Explicación 16](#ac)). 
+11.2. Para ejecutar la presente cláusula, el precio ofrecido por el tercero por el 100% de las participaciones del capital de la _STARTUP_ no podrá ser inferior a **TRES CIENTOS MIL (300.000) Euros** ([Explicación 16](#ac)).
 
 ### 12. derecho de acompañamiento - _tag along_
 >[Explicación 17](#ae)
 
-12.1. En el supuesto que un tercero tenga la intención de adquirir alguna participación en el capital social de la _STARTUP_ a través de una compraventa de participaciones titularidad de uno de los _SOCIOS EMPRENDEDORES_, los demás _SOCIOS_ tendrán la facultad de hacer uso de un Derecho de Acompañamiento. Es decir, derecho a vender al tercero conjuntamente con dicho _SOCIO EMPRENDEDOR_, al mismo precio y condiciones que las ofrecidas a este, en proporción a sus respectivas participaciones en el capital social de la _STARTUP_. 
+12.1. En el supuesto que un tercero tenga la intención de adquirir alguna participación en el capital social de la _STARTUP_ a través de una compraventa de participaciones titularidad de uno de los _SOCIOS EMPRENDEDORES_, los demás _SOCIOS_ tendrán la facultad de hacer uso de un Derecho de Acompañamiento. Es decir, derecho a vender al tercero conjuntamente con dicho _SOCIO EMPRENDEDOR_, al mismo precio y condiciones que las ofrecidas a este, en proporción a sus respectivas participaciones en el capital social de la _STARTUP_.
 
 12.2. Para ejecutar este Derecho de Acompañamiento, el _SOCIO EMPRENDEDOR_ que reciba una oferta de compra deberá notificarlo al Administrador de la _STARTUP_ quien deberá informar a los demás _SOCIOS_ para que decidan ejercer o no su Derecho de Acompañamiento. Esta decisión deberá comunicarse en un plazo máximo de 15 días y será vinculante para ambas _PARTES_.
 
@@ -169,14 +181,20 @@ f. Las _PARTES_ acuerdan regular sus relaciones jurídicas por medio del present
 
 ### 13. confidencialidad
 
-13.1. Los _SOCIOS_ mantendrán como estrictamente confidencial toda la información que hayan recibido (ya sea de forma oral o escrita) o a la que hayan tenido acceso en la _STARTUP_, estando obligados a proceder a su inmediata devolución a la _STARTUP_ en el momento en que cesen en su condición de _SOCIOS_ de la misma. Esta obligación no se halla sujeta a plazo temporal alguno, sino que se entenderá vigente indefinidamente. 
+13.1. Los _SOCIOS_ mantendrán como estrictamente confidencial toda la información que hayan recibido (ya sea de forma oral o escrita) o a la que hayan tenido acceso en la _STARTUP_, estando obligados a proceder a su inmediata devolución a la _STARTUP_ en el momento en que cesen en su condición de _SOCIOS_ de la misma. Esta obligación no se halla sujeta a plazo temporal alguno, sino que se entenderá vigente indefinidamente.
 
 13.2. En particular, se considerara que el incumplimiento de la presente cláusula produce daño a la _STARTUP_ o al resto de los _SOCIOS_ cuando un _SOCIO_ utilice el contenido de la _INFORMACIÓN CONFIDENCIAL_ para expandir sus actividades en detrimento o perjuicio de las actividades de la _STARTUP_ o cuando proporcione esta información o su contenido a una tercera persona con el mismo propósito y resultado.
 
 ### 14. nuevos socios
 >[Explicación 19](#af)
 
-Cualquier tercero que pretenda adquirir participaciones de la _STARTUP_ convirtiendose en SOCIO de la misma, deberá suscribir y aceptar de forma expresa todas y cada una de las cláusulas contenidas en el presente Pacto de Socios. Las _PARTES_ se comprometen a no permitir la entrada de ningun nuevo socio, sin la previa aceptacion por parte de este de las obligaciones en este Pacto de Socios mediante el otorgamiento del correspondiente Acuerdo o Carta de Adhesion.
+Cualquier tercero que pretenda adquirir participaciones de la _STARTUP_
+convirtiéndose en SOCIO de la misma, deberá suscribir y aceptar de forma
+expresa todas y cada una de las cláusulas contenidas en el presente
+Pacto de Socios. Las _PARTES_ se comprometen a no permitir la entrada de
+ningún nuevo socio, sin la previa aceptación por parte de éste de las
+obligaciones en este Pacto de Socios mediante el otorgamiento del
+correspondiente Acuerdo o Carta de Adhesión.
 
 ### 15. notificaciones
 
@@ -192,7 +210,7 @@ Todas las notificaciones y comunicaciones que procedan, a efectos del presente _
 
 ## anexo I: declaraciones y garantías
 
-A la fecha de formalizacion del presente _PACTO DE SOCIOS_, los _SOCIOS EMPRENDEDORES_ declaran y garantizan a _itnig_ lo siguiente:
+A la fecha de formalización del presente _PACTO DE SOCIOS_, los _SOCIOS EMPRENDEDORES_ declaran y garantizan a _itnig_ lo siguiente:
 
 1. Que son los únicos propietarios del 100% de las participaciones sociales de la _STARTUP_ y que así seguirá siendo hasta que se formalice la entrada de _itnig_ como _SOCIO_, mediante la ampliación de capital por compensación de créditos prevista en el _PACTO DE SOCIOS_.
 
@@ -200,11 +218,19 @@ A la fecha de formalizacion del presente _PACTO DE SOCIOS_, los _SOCIOS EMPRENDE
 
 3. Que la _STARTUP_ ha cumplido con todas las obligaciones legales (incluídas las fiscales, administrativas, de protección de datos de caracter personal, laborales y de la seguridad social) que fueren de aplicación en cada momento ([Explicación 20](#ah)).
 
-4. Que la _STARTUP_ es titular de la marca `MARCA STARTUP`, debidamente registrada, sin que se haya producido objeción u oposición alguna de terceros. En caso que dicha Marca no se encuentre Registrada y debidamente protegida, los _SOCIOS EMPRENDEDORES_ se comprometen a realizar las gestiones para garantizar este aspecto, en el máximo de un mes desde la fecha del presente _PACTO DE SOCIOS_. De igual manera, que la _STARTUP_ es titular de los siguientes dominios: `DOMINIO_STARTUP_1`, `DOMINIO_STARTUP_2`, `DOMINIO_STARTUP_3`. En caso que el titular de estos dominios sea un _SOCIO EMPRENDEDOR_ este se compromete a efectuar el cambio de titularidad en un plazo máximo de un mes desde la fecha del presente _PACTO DE SOCIOS_ ([Punto Crítico 9](#ai)).
+4. Que la _STARTUP_ es titular de la marca `MARCA STARTUP`, debidamente
+registrada, sin que se haya producido objeción u oposición alguna de
+terceros. En caso que dicha Marca no se encuentre Registrada y
+debidamente protegida, los _SOCIOS EMPRENDEDORES_ se comprometen a
+realizar las gestiones para garantizar este aspecto, en el máximo de un
+mes desde la fecha del presente _PACTO DE SOCIOS_. De igual manera, que
+la _STARTUP_ es titular de los siguientes dominios: `DOMINIO_STARTUP_1`,
+`DOMINIO_STARTUP_2`, `DOMINIO_STARTUP_3`. En caso que el titular de
+estos dominios sea un _SOCIO EMPRENDEDOR_ éste se compromete a efectuar el cambio de titularidad en un plazo máximo de un mes desde la fecha del presente _PACTO DE SOCIOS_ ([Punto Crítico 9](#ai)).
 
 5. Que la _STARTUP_ no infringe ni ha infringido ningún derecho de propiedad industrial o intelectual, nombre de dominio o denominación social de un tercero y está legítimamente autorizada para el uso de todos los derechos de propiedad industrial o intelectual, y nombres de dominio que utiliza.
 
-6. Que no existen procedimientos, litigios, reclamaciones en curso (incluidas fiscales, administrativas y laborales) contra la _STARTUP_ o contra sus administradores en el ejercicio de su cargo, ni existen procedimientos ni reclamaciones extrajudiciales en curso contra la _STARTUP_ ni tampoco se conoce que exista amenaza de que alguno de estos procesos pueda producirse en el futuro. 
+6. Que no existen procedimientos, litigios, reclamaciones en curso (incluidas fiscales, administrativas y laborales) contra la _STARTUP_ o contra sus administradores en el ejercicio de su cargo, ni existen procedimientos ni reclamaciones extrajudiciales en curso contra la _STARTUP_ ni tampoco se conoce que exista amenaza de que alguno de estos procesos pueda producirse en el futuro.
 
 En caso de falta de veracidad o inexactitud en cualquier declaración realizada en este Anexo, que afecte negativamente la Valoración de la _STARTUP_, _itnig_ podrá modificar la Valoración inicial de entrada de _itnig_ en la _STARTUP_.
 
@@ -222,17 +248,23 @@ En caso de falta de veracidad o inexactitud en cualquier declaración realizada 
 
 <a name="e"></a>**Explicación 4: ¡Estas son las reglas de juego!** Nos interesa dejar claro que este documento es el que rige nuestras relaciones como _SOCIOS_. Es muy probable que los Estatutos Sociales de la _STARTUP_ tengan un contenido estándar, por lo que en caso de contradicción entre estos y el presente _PACTO DE SOCIOS_, prevalecerá lo establecido en el _PACTO DE SOCIOS_.
 
-<a name="f"></a>**Explicación 5: ¿Cuánto vale la _STARTUP_?** La Valoración Post-Money indica cuánto vale una empresa una vez ha recibido una aportación de capital por parte de un inversor. En este caso, nos indicara cuanto vale la _STARTUP_ con las aportaciones de _itnig_.
+<a name="f"></a>**Explicación 5: ¿Cuánto vale la _STARTUP_?** La
+Valoración Post-Money indica cuánto vale una empresa una vez ha recibido
+una aportación de capital por parte de un inversor. En este caso, nos
+indicará cuanto vale la _STARTUP_ con las aportaciones de _itnig_.
 
 <a name="g"></a>**Explicación 6:** Esta cantidad será calculada de conformidad a las aportaciones iniciales de han realizado los _SOCIOS EMPRENDEDORES_, teniendo en cuenta los activos tangibles e intangibles de la _STARTUP_, su fondo de comercio (clientes), entre otros aspectos.
 
-<a name="h"></a>**Punto Crítico 1: ¡La transparencia es fundamental!** La relación entre _itnig_ y los _SOCIOS EMPRENDEDORES_ se basa en la confianza mutua. Por ello, solicitamos a los emprendedores que nos confirmen una serie de aspectos en relación a la situacion jurídica y financiera actual de la _STARTUP_. Estos puntos se detallan en el Anexo I del _PACTO DE SOCIOS_, los cuales se explicarán de forma detallada más adelante.
+<a name="h"></a>**Punto Crítico 1: ¡La transparencia es fundamental!**
+La relación entre _itnig_ y los _SOCIOS EMPRENDEDORES_ se basa en la
+confianza mutua. Por ello, solicitamos a los emprendedores que nos
+confirmen una serie de aspectos en relación a la situación jurídica y financiera actual de la _STARTUP_. Estos puntos se detallan en el Anexo I del _PACTO DE SOCIOS_, los cuales se explicarán de forma detallada más adelante.
 
 <a name="i"></a>**Explicación 7:** Cantidad que corresponde al 15% de la Valoración Post-Money de la _STARTUP_.
 
 <a name="j"></a>**Explicación 8:**  Esta factura por servicios de aceleración no deberá ser pagada por la _STARTUP_, a cambio se reconocerá una deuda a favor de _itnig_ y, para compensarla, _itnig_ asumirá un 15% de la _STARTUP_.
 
-<a name="k"></a>**Punto Crítico 2: Propuesta de Valor de itnig.** Los servicios de aceleración que proveerá _itnig_ consisten en una serie de  Prestaciones esenciales para la etapa inicial de la _STARTUP_ y se encuentran detallados en [la web de itnig](http://itnig.net/es/el-proceso)
+<a name="k"></a>**Punto Crítico 2: Propuesta de Valor de itnig.** Los servicios de aceleración que proveerá _itnig_ consisten en una serie de Prestaciones esenciales para la etapa inicial de la _STARTUP_ y se encuentran detallados en [la web de itnig](http://itnig.net/es/el-proceso)
 
 <a name="l"></a>**Procedimiento Legal 2: ¿Cómo entra _itnig_ en la _STARTUP_?** Se realizará una ampliación de capital para crear nuevas participaciones que representen un 15% de la _STARTUP_. Esta ampliación no será pagada en efectivo, ya que se compensará con la deuda que tiene la _STARTUP_ con _itnig_ (por los servicios de aceleración antes mencionados). Para mayor información sobre estos temas, recomendamos leer [¿Cómo hacer una ampliación de capital?](http://delvy.es/ampliación-de-capital/) y [¿Cómo realizar una ampliación de capital por compensación de créditos?](http://delvy.es/ampliación-capital-compensacion-creditos/)
 
@@ -264,7 +296,7 @@ En caso de falta de veracidad o inexactitud en cualquier declaración realizada 
 
 <a name="z"></a>**Procedimiento Legal 5: Si alguien quiere vender, los socios son los primeros en comprar.** Un _SOCIO_ no puede vender libremente sus participaciones a cualquier persona, sin antes haber ofrecido sus participaciones a los demás _SOCIOS_, quienes pueden adquirirlas de forma proporcional a su participación en el capital de la _STARTUP_.
 
-<a name="aa"></a>**Punto Crítico 8:** Las cláusulas de _drag along_ y _tag along_, tienen como objetivo regular las situaciones de deseinversión en la _STARTUP_ y salida por medio de compra de participaciones de los socios. Para mayor información sobre como funcionan estas cláusulas, recomendamos lectura de [cláusulas Drag y Tag Along en un Pacto de Socios](http://delvy.es/cláusulas-drag-tag-en-pacto-de-socios/). 
+<a name="aa"></a>**Punto Crítico 8:** Las cláusulas de _drag along_ y _tag along_, tienen como objetivo regular las situaciones de deseinversión en la _STARTUP_ y salida por medio de compra de participaciones de los socios. Para mayor información sobre como funcionan estas cláusulas, recomendamos lectura de [cláusulas Drag y Tag Along en un Pacto de Socios](http://delvy.es/cláusulas-drag-tag-en-pacto-de-socios/).
 
 <a name="ab"></a>**Explicación 15: ¿Y si alguien quiere comprar la _STARTUP_?** El objetivo de esta cláusula es asegurar un _exit_ en igualdad de condiciones para todos los _SOCIOS_ de la _STARTUP_.
 
@@ -280,4 +312,7 @@ En caso de falta de veracidad o inexactitud en cualquier declaración realizada 
 
 <a name="ah"></a>**Explicación 20: Estado fiscal y legal actual de la _STARTUP_.** El objetivo de esta cláusula es evitar encontrarnos en una situación donde, a causa de la falta de cumplimiento de las obligaciones legales y fiscales por parte de la _STARTUP_, se ponga en peligro la continuidad de la misma.
 
-<a name="ai"></a>**Punto Crítico 9: La propiedad intelectual e industrial debe ser de la _STARTUP_**. La Sociedad debe ser la titular y dueña de la Marca y dominios con los cuales opera, no los _SOCIOS EMPRENDEDORES_ de forma particular. Si este no es el caso, debe regularse esta situación lo más pronto posible, registrando la Marca y/o cambiando de titularidad los dominios con los que se opera.
+<a name="ai"></a>**Punto Crítico 9: La propiedad intelectual e
+industrial debe ser de la _STARTUP_**. La Sociedad debe ser la titular y
+dueña de la Marca y dominios con los cuales opera, no los _SOCIOS
+EMPRENDEDORES_ de forma particular. Si éste no es el caso, debe regularse esta situación lo más pronto posible, registrando la Marca y/o cambiando de titularidad los dominios con los que se opera.
