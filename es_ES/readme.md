@@ -18,4 +18,4 @@ utilizar nuestro modelo para lo que consideres oportuno. Si descubres
 puntos que pueden explicarse mejor o simplemente ves errores
 ortográficos o gramáticales, no dudes en corregirlo y hacer una pull
 request. Por último, si vas a hacer un uso legal de este material, no
-dejes de [consultar nuestro Aviso legal](../es_ES/avisolegal.md), y si vas a copiar total o parcialmente este documento y lo quieres redistribuir consulta nuestra [licencia](../master/license.md).
+dejes de [consultar nuestro Aviso legal](../es_ES/avisolegal.md), y si vas a copiar total o parcialmente este documento y lo quieres redistribuir consulta nuestra [licencia](../license.md).
