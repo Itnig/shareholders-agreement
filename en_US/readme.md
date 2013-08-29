@@ -1,21 +1,15 @@
-# Presentación
+# Introduction
 
-itnig y Delvy hemos trabajado intensamente para sintetizar en [este documento](../master/theitnigagreement.md) todo el aprendizaje acumulado en estos años por nosotros y por muchas otras personas que nos ayudan y asesoran.
+Both itnig and Delvy have worked hard to summarize in [this document](../en_US/theitnigagreement.md) all the accumulated learning that we have gained from the many people who have helped and advised us over the last few years.
 
-El resultado es **the itnig agreement**, una propuesta de asociación que pretende ser muy respetuosa con los derechos de los emprendedores y en la que los aspectos más importantes o críticos están explicados con un lenguaje sencillo y claro, de manera que sean perfectamente comprensibles.
+The result is **the itnig agreement**, a partnership proposal that aims to respect the entrepreneurs’ rights, and in which  major and critical aspects are explained in clear and plain English to ensure transparency between parties.
 
-Nuestros comentarios pueden ser de tres tipos:
+There are three types of comments:
 
-- **Punto Crítico**: Aspecto muy importante que ha de ser valorado con detenimiento por los socios emprendedores.
+- **Critical Point**: A very important factor that must be carefully considered by entrepreneurs.
 
-- **Explicación:** Aclaración en lenguaje sencillo de un punto que pueda resultar confuso.
+- **Explanation**: A clarification of a confusing point in plain English.
 
-- **Procedimiento Legal:** Explicación de los procedimientos legales que puedan derivarse de la firma de este pacto de socios.
+- **Legal Procedure**: An explanation of the legal procedures that could arise from the signing of this shareholders agreement.
 
-Ponemos este trabajo en código abierto, con una sencilla licencia
-Creative Commons de atribución. Siéntete libre de hacer un fork y
-utilizar nuestro modelo para lo que consideres oportuno. Si descubres
-puntos que pueden explicarse mejor o simplemente ves errores
-ortográficos o gramáticales, no dudes en corregirlo y hacer una pull
-request. Por último, si vas a hacer un uso legal de este material, no
-dejes de [consultar nuestro Aviso legal](../master/avisolegal.md), y si vas a copiar total o parcialmente este documento y lo quieres redistribuir consulta nuestra [licencia](../master/license.md).
+We leave all this work open source, with a simple Creative Commons Attribution License. Feel free to fork and use our model to anything you want. If you discover any point than can be explained better or if you simply discover any grammar mistake, please, correct it and send your pull request. At last, if you are going to use this document for legal purposes, please read before our [Legal Disclaimer](../en_US/legaldisclaimer.md) and if you are going to copy and share this document read before our [License](../license.md).
