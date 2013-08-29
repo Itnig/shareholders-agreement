@@ -1,4 +1,4 @@
-# Aviso Legal
+# Legal Disclaimer
 
 Both itnig and Delvy Asesores declare that the information and opinions expressed in this  [itnig's repository](https://github.com/Itnig/shareholders-agreement) have been prepared for information purposes only. They do not accurately reflect the common practice in the development of new projects, nor cover all relevant aspects in the setting up of a new company, neither in the relationship between partners or investors, and do not represent a standard method for accelerators and/or incubators.
 
