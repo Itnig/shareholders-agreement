@@ -61,155 +61,139 @@ f. The _PARTIES_ agree to regulate their legal relationships and their relations
 
 ### 2. startup initial assessment
 
-2.1. A efectos exclusivamente de la entrada de _itnig_ como _SOCIO_ de la _STARTUP_ y de conformidad a las conversaciones y negociaciones previas a la firma del presente contrato, las _PARTES_ han acordado fijar la Valoración Post-Money ([Explanation 5](#f)) de la _STARTUP_ en **CIEN MIL (100.000) Euros** ([Explanation 6](#g)).
+2.1. For the sole purpose of _itnig_ becoming _PARTNER_ of the _STARTUP_ and in accordance with the conversations and negotiations prior to the signing of this contract, the _PARTIES_ have agreed to set the Post-Money Valuation ([Explanation 5](#f)) of the _STARTUP_ as **ONE HUNDRED THOUSAND (100.000) Euros** ([Explanation 6](#g)).
 
-2.2. Las _PARTES_ manifiestan que la Valoración Post-Money ha sido fijada teniendo en cuenta las declaraciones y garantías ([Critical Point 1](#h)) que los _SOCIOS EMPRENDEDORES_ han reconocido y manifestado a _itnig_, las cuales se encuentran adjuntas al presente contrato como Anexo I.
 
-### 3. entrada y participación de itnig
+2.2. The _PARTIES_ claim that the Post-Money Valuation has been fixed taking into account the representations and warranties ([Critical Point 1](#h)) recognized and manifested to _itnig_ by the _PARTNER ENTREPRENEURS_. These representations and warranties are attached to this Agreement as Annex I.
 
-3.1. _itnig_ aportará a la _STARTUP_ servicios de aceleración valorados en **QUINCE MIL (15.000) Euros** ([Explanation 7](#i)).
+### 3. itnig entry and participation
 
-3.2. _itnig_ emitirá a la _STARTUP_ una factura por **QUINCE MIL (15.000) Euros**, IVA incluido, ([Explanation 8](#j)) en concepto de servicios de aceleración ([Critical Point 2](#k)), adquiriendo un derecho de crédito, el cual deberá ser convertido obligatoriamente a capital, mediante una ampliación de capital por compensación de créditos ([Legal Procedure 2](#l)), que supondrá la asunción por parte de _itnig_ del **QUINCE POR CIENTO (15%)** del capital social de la  _STARTUP_.
+3.1. itnig will provide the STARTUP acceleration services valued at **FIFTEEN THOUSAND (15.000) Euros** ([Explanation 7](#i)). 
 
-3.3. Los _SOCIOS EMPRENDEDORES_ y la propia Sociedad renuncian, ya en este acto, a su derecho de adquisición preferente, en relación a dicha ampliación de capital, la cual deberá ejecutarse en el plazo máximo de 3 meses desde la firma del presente Contrato ([Legal Procedure 3](#m)).
+3.2. itnig will issue an invoice to the STARTUP for **FIFTEEN THOUSAND (15.000) Euros**, VAT included ([Explanation 8](#j)), as acceleration services ([Critical Point 2](#k)).  This invoice creates a credit claim which must be offset by a capital increase  ([Legal Procedure 2](#l)). This equates to itnig’s **FIFTEEN PERCENT (15%)** of the capital of the STARTUP.
 
-### 4. derecho de información
+3.3. By performing this act, both the PARTNER ENTREPRENEURS and the STARTUP, waive their pre-emptive rights in relation to the capital increase. This share capital increase shall be executed within 3 months from the signing of this Agreement ([Legal Procedure 3](#m)).
+
+### 4. right to information
 >[Critical Point 3](#n)
 
-4.1. Las _PARTES_ acuerdan que _itnig_ podrá acceder a la información
-financiera de la _STARTUP_ en todo momento, incluida la contabilidad
-diaria, información de tesorería y previsiones financieras.
+4.1. The PARTIES agree that itnig can access the STARTUP’S financial information anytime, including daily accounting, treasury information and financial forecasts.
 
-4.2. Asímismo, _itnig_ dispondrá de acceso, en tiempo real, a toda la
-información relativa a la audiencia e ingresos de las páginas web
-gestionadas por la _STARTUP_. En particular, _itnig_ tendrá acceso a los
-siguientes servicios: Google Analytics, Google Adsense, Google Adwords, Kissmetrics, así como otros sistemas de métricas.
+4.2. Additionally, itnig will have access, in real time, to all the information relating to the audience and revenues of the digital assets operated by the STARTUP. In particular, itnig will have access to the following services: Google Analytics, Adsense, Adwords, Kissmetrics and other metric systems.
 
-### 5. futura ronda de financiación
+### 5. future founding round
 
-5.1. Las _PARTES_ acuerdan que cualquier ampliación de capital posterior a la recogida en este acuerdo, deberá realizarse con prima de emisión a una Valoración Post-Money de al menos **CIENTO CINCUENTA MIL (150.000) Euros** ([Explanation 9](#o)).
+5.1. The PARTIES agree that any capital increase made after the one specified in this agreement shall be made with a Share Premium to a Post-Money Valuation of at least **ONE HUNDRED AND FIFTY THOUSAND (150.000,00) Euros** ([Explanation 9](#o)).
+ 
+5.2. If a capital increase with a Post-Money Valuation of less than **ONE HUNDRED AND FIFTY THOUSAND (150.000,00) Euros** takes place, PARTNER ENTREPRENEURS commit to provide to itnig the number of shares required to retain the **FIFTEEN PERCENT (15%)** of the share capital of the STARTUP. Depending on the circumstances, PARTNER ENTREPRENEURS may choose between two mechanisms to perform this operation: (a) an increase of itnig shares issued against reserves or (b) transfer of shares by the ENTREPRENEUR PARTNERS to itnig  at a par value ([Critical Point 4](#p)).
 
-5.2. Si se realizase una ampliación de capital con Valoración Post-Money
-inferior a **CIENTO CINCUENTA MIL (150.000) Euros**, los SOCIOS se
-comprometen a facilitar a _itnig_ el número de participaciones
-necesarias para que conserve el **QUINCE POR CIENTO (15%)** del capital
-social de la _STARTUP_. Según las circunstancias, se podrá optar entre
-dos mecanismos para hacer posible esta operación: (a) asunción por parte de _itnig_ de participaciones liberadas por ampliación de capital con cargo a reservas o (b) transmisión de participaciones por parte de los _SOCIOS EMPRENDEDORES_ a _itnig_ a valor nominal ([Critical Point 4](#p)).
+### 6. positions
 
-### 6. cargos
+6.1. ENTREPRENEUR PARTNERS will have the following positions in the STARTUP:
 
-6.1. Los _SOCIOS EMPRENDEDORES_ desempeñarán en la _STARTUP_ los siguientes cargos:
+6.2. `NAME AND SURNAME PARTNER 1` assume the duties of CEO or Executive Director. His/Her responsibilities will be `RESPONSIBILITIES PARTNER 1`.  
 
-6.2. `NOMBRE Y APELLIDOS PARTNER 1` asumirá las funciones de CEO o Director Ejecutivo. Tendrá como responsabilidades la `RESPONSABILIDADES PARTNER 1`.
+`NAME AND SURNAME PARTNER 2` assume the duties of `POSITION PARTNER 2`. His/Her responsibilities will be `RESPONSIBILITIES PARTNER 2`.  
 
-`NOMBRE Y APELLIDOS PARTNER 2`, asumirá las funciones de `CARGO PARTNER 2`. Tendrá como responsabilidades `RESPONSABILIDADES PARTNER 2`.
+`NAME AND SURNAME PARTNER 3` assume the duties of `POSITION PARTNER 3`. His/Her responsibilities will be `RESPONSIBILITIES PARTNER 3`.  
 
-`NOMBRE Y APELLIDOS PARTNER 3`, asumirá las funciones de `CARGO PARTNER 3`. Tendrá como responsabilidades `RESPONSABILIDADES PARTNER 3`.
+### 7. commitments of permanence
 
-### 7. compromiso de permanencia
+7.1. The PARTIES recognize as an essential element of their relationship with the STARTUP the commitment of the PARTNER ENTREPRENEURS in the continuity and exclusive dedication in their respective positions.
 
-7.1. Las _PARTES_ reconocen como elemento esencial de su relación en la _STARTUP_ el compromiso de los _SOCIOS EMPRENDEDORES_ en la permanencia, dedicación y disponibilidad exclusiva en sus respectivos cargos.
+7.2. The ENTREPRENEUR PARTNERS commit to other PARTNERS and to the STARTUP to remain as partners and provide his/her services, full time, and in their respective positions, for at least **FOUR YEARS (4)** starting from the signing of this Agreement ([Critical Point 5](#q)). 
 
-7.2. Los _SOCIOS EMPRENDEDORES_, se obligan y comprometen frente a los demás _SOCIOS_ y frente a la _STARTUP_ a permanecer como socios y prestar sus servicios, a tiempo completo, en sus respectivos cargos, durante un mínimo de **CUATRO AÑOS (4)**, contados desde la firma del presente _PACTO DE SOCIOS_ ([Critical Point 5](#q)).
+7.3. During this period, none of the ENTREPRENEUR PARTNERS can stop providing his/her services to the STARTUP unless the General Meeting declares, by majority and excluding the vote of  the partner concerned, that his/her absence does not affect the positive development of the STARTUP ([Explanation 10](#r)).
 
-7.3. Durante dicho plazo, ninguno de los _SOCIOS EMPRENDEDORES_ podrá dejar de prestar sus servicios a la _STARTUP_ a menos que la Junta General declare por mayoría, excluyéndose de la votación en su caso al socio interesado, que esta ausencia no afectará a la evolución positiva de la _STARTUP_ ([Explanation 10](#r)).
+### 8. non competition commitment
 
-### 8. compromiso de no competencia
+8.1. While the ENTREPRENEUR PARTNERS are still PARTNERS of the STARTUP, either directly or indirectly, and during the year following the effective cessation of responsibility to the STARTUP, they shall not, directly or indirectly, or in any circumstance:
 
-8.1. Mientras los _SOCIOS EMPRENDEDORES_ sean _SOCIOS_ de la _STARTUP_, ya sea de forma directa o indirecta, y durante el año siguiente al cese efectivo de su condición de _SOCIO_, estos no deberán, de forma directa o indirecta, bajo ninguna capacidad:
+a. Own, manage, operate, control, participate (either as investor, executive manager or otherwise), be employed by or provide consultancy services in any of the sectors constituting the field of activity of the STARTUP, which currently focuses on `DESCRIPTION OF THE COMMERCIAL ACTIVITY OF THE STARTUP`.  In addition, he/she shall not engage, on his/her own behalf or on the behalf of others, in an operational or marketing activity that can be reputed as competition of the STARTUP, under any legal form, either directly or indirectly, or through third parties or fiduciary entities.
 
- a. Ser propietarios, dirigir, operar, controlar, participar (ya sea como inversor, directivo o de otra manera), ser empleado por, prestar servicios de consultoría, en cualquiera de los sectores constitutivos del ámbito de actividad de la _STARTUP_, que en la actualidad se centra en `DESCRIPCIÓN ACTIVIDAD MERCANTIL STARTUP`, ni se dedicará por cuenta propia o ajena a la explotación o comercialización de actividades que puedan ser reputadas como competidoras de la _STARTUP_, bajo ninguna forma jurídica, ya sea directa o indirectamente o a través de personas y/o entidades interpuestas o fiduciarias.
+b. Employ or contract any person who, within one year from the time they cease to be a partner, has been an employee, agent, consultant or similar representative of the STARTUP.
 
- b. Emplear o contratar cualquier persona que, en el plazo de un año desde el momento en que deje de ser _SOCIO_, haya sido empleado, agente, consultor o un representante similar de la _STARTUP_ ([Explanation 11](#s)).
+8.2. The General Meeting will agree by majority, excluding the vote of the member concerned, that the activity performed by a specific PARTNER ENTREPRENEUR is considered as competition to the STARTUP or not.
 
-8.2. Junta General acordará por mayoría, excluyéndose de la votación en su caso al _SOCIO_ interesado, que la actividad que realice un determinado _SOCIO EMPRENDEDOR_ es considerada como competidora de la _STARTUP_.
-
-### 9. desvinculación del socio emprendedor de la startup
+### 9. disengagement of the entrepreneur partner from the startup
 >[Critical Point 6](#t)
 
-9.1. En caso de que uno de los _SOCIOS EMPRENDEDORES_ deje la _STARTUP_ o deje de prestar sus servicios y desempeñar el cargo previamente establecido en el presente _PACTO DE SOCIOS_ ([Explanation 12](#u)), los demás _SOCIOS_ adquirirán una Opción de Compra ([Legal Procedure 4](#v)), por la cual el _SOCIO_ en cuestión estará obligado a vender una parte de sus participaciones en la _STARTUP_, a los otros _SOCIOS_ en proporción a su participación en el capital social, y en defecto de ejercicio por parte de estos, a la _STARTUP_, si así lo decide la Junta General de Socios de la misma.
+9.1. If one of the ENTREPRENEUR PARTNERS leave the STARTUP or cease to provide his/her services and perform the duties previously established in this Agreement([Explanation 12](#u)), the other PARTNERS will acquire a call option ([Legal Procedure 4](#v)), by which the concerned PARTNER will be obliged to sell a part of their shares in the STARTUP to the other PARTNERS, in proportion to their share in the capital of the STARTUP. If the other PARTNERS do not exercise their right of purchase, the sale will be made to the STARTUP, if agreed upon by its General Meeting.
 
-9.2. En caso que esta Opción de Compra efectivamente se ejercite, la compraventa deberá formalizarse dentro del mes siguiente a la fecha de comunicación del ejercicio del derecho de Opción de Compra, estando obligado el _SOCIO_ en cuestión a transmitir sus participaciones que le correspondan en el capital social de la _STARTUP_.
+9.2. If the call option is effectively exercised, the sale must be formalized within one month from the date of communication of the right of purchase.  The concerned PARTNER is forced to pass his/her shares to the capital of the STARTUP within this time frame. 
 
-9.3. El ejercicio del derecho de Opción de Compra regulado en la presente cláusula podrá ser ejercitado en los siguientes casos:
+9.3. The exercise of the call option specified in this clause may be exercised in the following cases:
 
- 1. En caso de que un _SOCIO_ deje voluntariamente la _STARTUP_ antes de transcurridos 4 años, contados desde la firma del presente _PACTO DE SOCIOS_.
+1. If a PARTNER voluntarily leaves the STARTUP before the end of the 4th year  after signing this Agreement;
 
- 2. En caso de que un _SOCIO_ se vea desvinculado de su cargo por incumplimiento de sus funciones u objetivos establecidos en su respectivo Contrato de Prestación de Servicios. En este caso, la desvinculación deberá ser acordada por mayoría simple en Junta General, excluyendo de la votación al _SOCIO_ en cuestión.
+2. If a PARTNER is removed from his position because of the breach of duties and objectives established in his respective Service Agreement. In this case, the separation must be approved by a simple majority at the General Meeting, excluding the vote of the concerned PARTNER;
 
- 3. En caso de que un _SOCIO_ incumpla su compromiso de No Competencia regulado en la cláusula 8. En este caso, la Junta General deberá acordar por mayoría, excluyendo de la votación al _SOCIO_ en cuestión, que la actividad que realiza dicho _SOCIO_ es constitutiva de competencia directa de la _STARTUP_.
+3. If a PARTNER breaks the Non Competition Commitment regulated in clause number 8. The General Meeting may decide, by majority and excluding the concerned PARTNER, that the activity undertaken by that PARTNER constitutes direct competition to the STARTUP.
 
-  4. En caso de que un _SOCIO_ fallezca, sus herederos deberán vender a los demás _SOCIOS_ el total de las participaciones del socio fallecido, de forma proporcional al porcentaje de los demás _SOCIOS_.
+4. In the event that a PARTNER passes away, his heirs shall sell to the others PARTNERS all the deceased partner's shares, in proportion to the percentage of the other PARTNERS.
 
-9.4. En estos casos, el precio de dicha venta será el valor medio de
-adquisición del total de las participaciones cuyo titular sea el _SOCIO_ obligado a vender. A efectos de la presente cláusula, se entenderá como valor medio de adquisición, el promedio del historial de transmisiones de participaciones de cada _SOCIO_, desde las aportaciones realizadas en la constitución, otras transmisiones de participaciones u ampliaciónes de capital suscritas ([Explanation 13](#w)).
+9.4. In all these cases, the price of the sale will be the average value of the total acquisition of the shares owned by the PARTNER who was forced to sell. For the purposes of this clause, we shall understand average acquisition value as the average of the purchased share’s transaction value for each partner, including contributions made to the setup of the startup, other transactions of shares, and/or capital increases subscribed ([Explanation 13](#w)).
+	
+9.5. In the event that an ENTREPRENEUR PARTNER is no longer tied with the STARTUP because of the reasons specified in this agreement, he/she will be forced to sell to the other PARTNERS a part of his/her shares, according to the percentage indicated in the following table [Explanation 14](#x)):  
 
-9.5. En el supuesto de que un _SOCIO EMPRENDEDOR_ se desvincule de la _STARTUP_ por cualquiera de las causas previstas en la presente cláusula, estará obligado a vender a los demás _SOCIOS_ una parte de sus participaciones, según el porcentaje indicado en la siguiente tabla ([Explanation 14](#x)):
-
-|Momento en que se produce el hecho|Porcentaje a vender|
+|Time at which the event occurred|Percentage to sell|
 |------|--------|
-|De 0 a 12 meses,contados desde la firma del presente Acuerdo, ambos extremos incluidos|100%|
-|De 13 a 24 meses,contados desde la firma del presente Acuerdo, ambos extremos incluidos|75%|
-|De 25 a 36 meses,contados desde la firma del presente Acuerdo, ambos extremos incluidos|50%|
-|De 37 a 48 meses, contados desde la firma del presente Acuerdo, ambos extremos incluidos|25%|
-|Despues de 48 meses contados desde la firma del presente Acuerdo|0%|
+|From 0-12 months from the signing of this Agreement, including the first and last day of this period|100%|
+|From 13-24 months from the signing of this Agreement, including the first and last day of this period|75%|
+|From 25-36 months from the signing of this Agreement, including the first and last day of this period|50%|
+|From 37-48 months from the signing of this Agreement, including the first and last day of this period|25%|
+|After 48 months from the signing of this Agreement|0%|
 
-9.6. No será de aplicación esta tabla para los supuestos (iii) y (iv) arriba indicados, siendo obligatoria la venta del 100% de las participaciones en dichos casos ([Critical Point 7](#y)).
+9.6. This table does not apply to cases (iii) and (iv) listed above.  Where sale of 100% of the shares is mandatory ([Critical Point 7](#y)).
 
-9.7. Los gastos derivados del ejercicio de la Opción de Compra serán satisfechos a partes iguales entre el _SOCIO_ obligado a vender y los _SOCIOS_ adquirientes.
+9.7. Any expenditure arising from the exercise of the purchase option will be paid equally between the PARTNER who was forced to sell and the acquirers PARTNERS. 
 
-### 10. régimen de transmisión de participaciones sociales
+### 10. equity transmission system
 
-10.1. Cualquier transmisión de participaciones de la _STARTUP_ pretendida por uno de los _SOCIOS_ queda sujeta a un derecho de adquisición preferente en favor de los demás _SOCIOS_ en los términos y condiciones previstas en los Estatutos Sociales y en la Ley de Sociedades de Capital ([Legal Procedure 5](#z))
+10.1. Any transfer of shares of the STARTUP sought by one of the PARTNERS is subject to a preemptive right to acquire by other PARTNERS under the terms and conditions provided in the Articles of Association and the Spanish Companies Act ([Legal Procedure 5](#z)). 
 
-10.2. Tendrán un régimen especial la transmisión de participaciones sociales en los casos regulados en la cláusula 9 relacionada con la vinculación del _SOCIO EMPRENDEDOR_ en la _STARTUP_, la cláusula 11 relacionada con el Derecho de Arrastre y la cláusula 12 relacionada con el Derecho de Acompañamiento.
+10.2. A special transaction of shares applies in cases covered under; clause number 9 regarding the link between the PARTNER ENTREPRENEUR and the STARTUP, under clause number 11 regarding the Drag Along assumption, and under clause number 12 regarding the Tag Along assumption. 
 
-### 11. derecho de arrastre - _drag along_
+### 11. _drag along_ right
 >[Critical Point 8](#aa)
 
-11.1. Si cualquiera de los _SOCIOS_ recibiera una oferta de compra sobre la totalidad de participaciones (100%) del capital social de la _STARTUP_, a cambio de dinero en efectivo, participaciones de otra sociedad o acciones cotizadas, y esta oferta contara con la aprobación de un número de _SOCIOS_ que representen al menos el 65% del capital de la _STARTUP_, dicho(s) _SOCIO(S)_ tendrá(n) un derecho de arrastre o _drag-along_ frente a todos los demás _SOCIOS_. En este supuesto, los restantes _SOCIOS_ dispondrán de un plazo de 90 días desde la fecha de la comunicación de la oferta para la adquisición preferente de las participaciones objeto de la venta, por el mismo importe de la oferta recibida. En caso de que no se ejerza el derecho de adquisición preferente, los restantes _SOCIOS_ estarían obligados a vender la parte proporcional correspondiente de su participación por el mismo precio y condiciones que los ofrecidos por el tercero interesado ([Explanation 15](#ab)).
+11.1. If any of the PARTNERS receive a purchase offer for all shares (100%) of the STARTUP, in exchange for cash, shares of another company or listed shares, and this offer is approved by PARTNERS representing at least 65% of the capital of the STARTUP, then PARTNERS have a right to pull or _drag-along_ other PARTNERS. In this case the remaining PARTNERS have a period of 90 days, from the date of the communication of the offer, to purchase the shares being sold at the value of the winning bid. Should they not exercise the right of first refusal, then they will be forced to sell the proportional part of their stake for the same price and at the conditions offered by the third party ([Explanation 15](#ab)).
 
-11.2. Para ejecutar la presente cláusula, el precio ofrecido por el tercero por el 100% de las participaciones del capital de la _STARTUP_ no podrá ser inferior a **TRES CIENTOS MIL (300.000) Euros** ([Explanation 16](#ac)).
+11.2. To execute this clause the price offered by the third party, for 100% of the capital shares of the STARTUP,  cannot be less than **THREE HUNDRED THOUSAND (300.000) Euros** ([Explanation 16](#ac)).
 
-### 12. derecho de acompañamiento - _tag along_
+### 12. _tag along_ right
 >[Explanation 17](#ae)
 
-12.1. En el supuesto que un tercero tenga la intención de adquirir alguna participación en el capital social de la _STARTUP_ a través de una compraventa de participaciones titularidad de uno de los _SOCIOS EMPRENDEDORES_, los demás _SOCIOS_ tendrán la facultad de hacer uso de un Derecho de Acompañamiento. Es decir, derecho a vender al tercero conjuntamente con dicho _SOCIO EMPRENDEDOR_, al mismo precio y condiciones que las ofrecidas a este, en proporción a sus respectivas participaciones en el capital social de la _STARTUP_.
+12.1. In the event that a third party intends to acquire a stake in the STARTUP through a sale of shares owned by one of the PARTNER ENTREPRENEURS the other PARTNERS have the power to make use of the Tag Along right. That is, the right to sell their shares to the third party together with the aforementioned PARTNER ENTREPRENEUR at the same price, under the same conditions, and in proportion to their respective shares in the capital of the STARTUP.
 
-12.2. Para ejecutar este Derecho de Acompañamiento, el _SOCIO EMPRENDEDOR_ que reciba una oferta de compra deberá notificarlo al Administrador de la _STARTUP_ quien deberá informar a los demás _SOCIOS_ para que decidan ejercer o no su Derecho de Acompañamiento. Esta decisión deberá comunicarse en un plazo máximo de 15 días y será vinculante para ambas _PARTES_.
+12.2. To activate this Tag Along right, the PARTNER ENTREPRENEUR who received the purchase offer should notify the STARTUP Administrator, who shall inform the other PARTNERS. The remaining PARTNERS must decide whether they want to exercise their Tag Along right or not. This decision must be communicated within 15 days and will be binding with both parties. 
 
-12.3. En el caso de que cualquier tercero adquiriese más del 50% de las participaciones de la _STARTUP_ los demás _SOCIOS_ tendrán derecho a vender al tercero la totalidad de sus participaciones ([Explanation 18](#ae)).
+12.3. In the event that any third party acquires more than 50% of the shares of the STARTUP, the  other PARTNERS have the right to sell to that third party all of their shares ([Explanation 18](#ae)).
 
-### 13. confidencialidad
+### 13. confidentiality
 
-13.1. Los _SOCIOS_ mantendrán como estrictamente confidencial toda la información que hayan recibido (ya sea de forma oral o escrita) o a la que hayan tenido acceso en la _STARTUP_, estando obligados a proceder a su inmediata devolución a la _STARTUP_ en el momento en que cesen en su condición de _SOCIOS_ de la misma. Esta obligación no se halla sujeta a plazo temporal alguno, sino que se entenderá vigente indefinidamente.
+13.1. The PARTNERS must treat all the information they receive (either oral or written) or to which they have had access through the STARTUP, as strictly confidential. They must return all the information immediately to the STARTUP at the very moment he/she leaves his/her position as PARTNER . This obligation is not subject to any time period, but it is understood to last indefinitely.
 
-13.2. En particular, se considerara que el incumplimiento de la presente cláusula produce daño a la _STARTUP_ o al resto de los _SOCIOS_ cuando un _SOCIO_ utilice el contenido de la _INFORMACIÓN CONFIDENCIAL_ para expandir sus actividades en detrimento o perjuicio de las actividades de la _STARTUP_ o cuando proporcione esta información o su contenido a una tercera persona con el mismo propósito y resultado.
+13.2. In particular we consider that a breach of this clause causes damage to the STARTUP or to the remaining PARTNERS when; a PARTNER uses _CONFIDENTIAL INFORMATION_ to expand his/her activities to the detriment or prejudice of the STARTUP activities, or when providing information to another person who has the same purpose and result.
 
-### 14. nuevos socios
+### 14. new partners
 >[Explanation 19](#af)
 
-Cualquier tercero que pretenda adquirir participaciones de la _STARTUP_
-convirtiéndose en SOCIO de la misma, deberá suscribir y aceptar de forma
-expresa todas y cada una de las cláusulas contenidas en el presente
-Pacto de Socios. Las _PARTES_ se comprometen a no permitir la entrada de
-ningún nuevo socio, sin la previa aceptación por parte de éste de las
-obligaciones en este Pacto de Socios mediante el otorgamiento del
-correspondiente Acuerdo o Carta de Adhesión.
+Any third party that wishes to acquire STARTUP shares and become a PARTNER shall endorse and expressly accept each and every one of the clauses in the present Shareholders’ Agreement. The PARTIES agree not to allow the entry of any new partner without his/her prior acceptance of the obligations outlined in this Shareholders' Agreement by providing a relevant Accession Agreement or Letter. 
 
-### 15. notificaciones
+### 15. notifications
 
-Todas las notificaciones y comunicaciones que procedan, a efectos del presente _PACTO DE SOCIOS_, se harán por escrito y de manera fehaciente a las direcciones que aparecen en el encabezamiento, por cualquier medio que acredite el contenido y la entrega de la comunicación. Cualquier cambio de dirección deberá ser comunicado por escrito a las demás _PARTES_ con suficiente antelación mediante correo certificado.
+All necessary notices and communications regarding this Shareholders' Agreement shall be written to the addresses appearing in the heading of this document and sent by any means, stating the content of the communication. Any change of address must be notified, in writing, to the other PARTIES in advance by certified mail.
 
-### 16. ley aplicable y arbitraje
+### 16. applicable law and arbitration
 
-16.1. El presente _PACTO DE SOCIOS_ deberá ser interpretado y cumplido en sus propios términos y, en lo no previsto, se regirá por la legislación española.
+16.1. This Agreement shall be construed and enforced in its own terms and, if this is not possible, by Spanish Law. 
 
-16.2. Para la solución de cualquier conflicto o cuestión litigiosa derivada de este _PACTO DE SOCIOS_, incluidos los que de ellos se deriven, así como su validez, las _PARTES_ se someten al arbitraje institucional del Tribunal Arbitral de Barcelona ([Legal Procedure 6](#ag)), de la Asociación Catalana para el Arbitraje, (TAB), -cualquiera que fuera su denominacion futura- a quien se encomienda la designación del árbitro o árbitros y la administración del arbitraje de acuerdo con su Reglamento vigente al inicio del arbitraje.
+16.2. The parties hereto shall submit any conflict or potentially litigious issue arising from this contract or any other legal action, including any based thereon, or as to the validity thereof, to the institutional arbitration of the **Tribunal Arbitral de Barcelona** (TAB) _Barcelona Arbitration Court_ ([Legal Procedure 6](#ag)), belonging to the **Associació Catalana per a l’Arbitratge** (ACA) _Catalan Arbitration Association_ - by whatever name it may be known in the future – which shall be responsible for appointing the arbitrator or arbitrators and administering the arbitration proceedings in accordance with its Regulations in force at the start of the arbitration proceedings. 
 
 * * *
 
-## anexo I: declaraciones y garantías
+## annex: representations and warranties
 
 A la fecha de formalización del presente _PACTO DE SOCIOS_, los _SOCIOS EMPRENDEDORES_ declaran y garantizan a _itnig_ lo siguiente:
 
